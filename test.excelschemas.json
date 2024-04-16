@@ -1,0 +1,4471 @@
+[{
+  "_id": {
+    "$oid": "65e089f45a00d178b5e14be9"
+  },
+  "data": [
+    {
+      "CO": "C19203.1",
+      "PO1": 3,
+      "PO2": 3,
+      "PO3": 2,
+      "PO4": 1,
+      "PO5": 0,
+      "PO6": 0,
+      "PO7": 1,
+      "PO8": 1,
+      "PO9": 1,
+      "PO10": 0,
+      "PO11": 0,
+      "PO12": 3,
+      "PSO1": 3,
+      "PSO2": 1,
+      "PSO3": 0,
+      "_id": {
+        "$oid": "65e089f45a00d178b5e14bea"
+      }
+    },
+    {
+      "CO": "C19203.2",
+      "PO1": 3,
+      "PO2": 3,
+      "PO3": 1,
+      "PO4": 1,
+      "PO5": 0,
+      "PO6": 0,
+      "PO7": 1,
+      "PO8": 1,
+      "PO9": 1,
+      "PO10": 0,
+      "PO11": 0,
+      "PO12": 3,
+      "PSO1": 3,
+      "PSO2": 1,
+      "PSO3": 0,
+      "_id": {
+        "$oid": "65e089f45a00d178b5e14beb"
+      }
+    },
+    {
+      "CO": "C19203.3",
+      "PO1": 3,
+      "PO2": 3,
+      "PO3": 2,
+      "PO4": 1,
+      "PO5": 0,
+      "PO6": 0,
+      "PO7": 0,
+      "PO8": 0,
+      "PO9": 1,
+      "PO10": 0,
+      "PO11": 0,
+      "PO12": 3,
+      "PSO1": 3,
+      "PSO2": 1,
+      "PSO3": 0,
+      "_id": {
+        "$oid": "65e089f45a00d178b5e14bec"
+      }
+    },
+    {
+      "CO": "C19203.4",
+      "PO1": 3,
+      "PO2": 3,
+      "PO3": 2,
+      "PO4": 1,
+      "PO5": 0,
+      "PO6": 0,
+      "PO7": 0,
+      "PO8": 0,
+      "PO9": 1,
+      "PO10": 0,
+      "PO11": 0,
+      "PO12": 3,
+      "PSO1": 3,
+      "PSO2": 1,
+      "PSO3": 0,
+      "_id": {
+        "$oid": "65e089f45a00d178b5e14bed"
+      }
+    },
+    {
+      "CO": "C19203.5",
+      "PO1": 3,
+      "PO2": 2,
+      "PO3": 2,
+      "PO4": 1,
+      "PO5": 0,
+      "PO6": 0,
+      "PO7": 0,
+      "PO8": 0,
+      "PO9": 1,
+      "PO10": 0,
+      "PO11": 0,
+      "PO12": 3,
+      "PSO1": 3,
+      "PSO2": 1,
+      "PSO3": 0,
+      "_id": {
+        "$oid": "65e089f45a00d178b5e14bee"
+      }
+    },
+    {
+      "CO": "C19203.6",
+      "PO1": 3,
+      "PO2": 2,
+      "PO3": 1,
+      "PO4": 1,
+      "PO5": 0,
+      "PO6": 0,
+      "PO7": 0,
+      "PO8": 0,
+      "PO9": 1,
+      "PO10": 0,
+      "PO11": 0,
+      "PO12": 3,
+      "PSO1": 3,
+      "PSO2": 1,
+      "PSO3": 0,
+      "_id": {
+        "$oid": "65e089f45a00d178b5e14bef"
+      }
+    },
+    {
+      "CO": "C19203.7",
+      "PO1": 3,
+      "PO2": 1,
+      "PO3": 1,
+      "PO4": 1,
+      "PO5": 0,
+      "PO6": 0,
+      "PO7": 0,
+      "PO8": 1,
+      "PO9": 1,
+      "PO10": 0,
+      "PO11": 0,
+      "PO12": 3,
+      "PSO1": 3,
+      "PSO2": 1,
+      "PSO3": 0,
+      "_id": {
+        "$oid": "65e089f45a00d178b5e14bf0"
+      }
+    }
+  ],
+  "avg": [
+    {
+      "CO": "0",
+      "PO1": 3,
+      "PO2": 2.4285714285714284,
+      "PO3": 1.5714285714285714,
+      "PO4": 1,
+      "PO5": 0,
+      "PO6": 0,
+      "PO7": 1,
+      "PO8": 1,
+      "PO9": 1,
+      "PO10": 0,
+      "PO11": 0,
+      "PO12": 3,
+      "PSO1": 3,
+      "PSO2": 1,
+      "PSO3": 0,
+      "_id": {
+        "$oid": "65e089f45a00d178b5e14bf1"
+      }
+    }
+  ],
+  "subject": "DSA",
+  "students": [
+    {
+      "srNo": 1,
+      "rollNo": "33101",
+      "seatNo": "T190058501",
+      "name": "ABHAY BHAT",
+      "CO": {
+        "CO1_UT1": 2,
+        "CO2_UT1": 10,
+        "CO3_UT1": 3,
+        "CO4_UT2": 7,
+        "CO5_UT2": 2,
+        "CO6_UT2": 1,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d4c4"
+        }
+      },
+      "SPPU": 89,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d4c3"
+      }
+    },
+    {
+      "srNo": 2,
+      "rollNo": "33102",
+      "seatNo": "T190058503",
+      "name": "ADVAIT NAIK",
+      "CO": {
+        "CO1_UT1": 5,
+        "CO2_UT1": 3,
+        "CO3_UT1": 7,
+        "CO4_UT2": 2,
+        "CO5_UT2": 2,
+        "CO6_UT2": 2,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d4c6"
+        }
+      },
+      "SPPU": 78,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d4c5"
+      }
+    },
+    {
+      "srNo": 3,
+      "rollNo": "33103",
+      "seatNo": "T190058504",
+      "name": "AGRAWAL PRATHAM SUNIL",
+      "CO": {
+        "CO1_UT1": 3,
+        "CO2_UT1": 8,
+        "CO3_UT1": 8,
+        "CO4_UT2": 0,
+        "CO5_UT2": 0,
+        "CO6_UT2": 0,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d4c8"
+        }
+      },
+      "SPPU": 67,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d4c7"
+      }
+    },
+    {
+      "srNo": 4,
+      "rollNo": "33104",
+      "seatNo": "T190058507",
+      "name": "ANCHALAA JHA",
+      "CO": {
+        "CO1_UT1": 2,
+        "CO2_UT1": 10,
+        "CO3_UT1": 6,
+        "CO4_UT2": 5,
+        "CO5_UT2": 10,
+        "CO6_UT2": 4,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d4ca"
+        }
+      },
+      "SPPU": 72,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d4c9"
+      }
+    },
+    {
+      "srNo": 5,
+      "rollNo": "33105",
+      "seatNo": "T190058511",
+      "name": "ARYAN AGRAWAL",
+      "CO": {
+        "CO1_UT1": 10,
+        "CO2_UT1": 10,
+        "CO3_UT1": 5,
+        "CO4_UT2": 2,
+        "CO5_UT2": 6,
+        "CO6_UT2": 4,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d4cc"
+        }
+      },
+      "SPPU": 75,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d4cb"
+      }
+    },
+    {
+      "srNo": 6,
+      "rollNo": "33106",
+      "seatNo": "T190058516",
+      "name": "BAHETI HIMANSHU PARAG",
+      "CO": {
+        "CO1_UT1": 10,
+        "CO2_UT1": 10,
+        "CO3_UT1": 8,
+        "CO4_UT2": 2,
+        "CO5_UT2": 10,
+        "CO6_UT2": 4,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d4ce"
+        }
+      },
+      "SPPU": 75,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d4cd"
+      }
+    },
+    {
+      "srNo": 7,
+      "rollNo": "33107",
+      "seatNo": "T190058517",
+      "name": "BAJAJ ANUSHREE SHRIGOPAL",
+      "CO": {
+        "CO1_UT1": 7,
+        "CO2_UT1": 10,
+        "CO3_UT1": 5,
+        "CO4_UT2": 6,
+        "CO5_UT2": 7,
+        "CO6_UT2": 0,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d4d0"
+        }
+      },
+      "SPPU": 78,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d4cf"
+      }
+    },
+    {
+      "srNo": 8,
+      "rollNo": "33108",
+      "seatNo": "T190058520",
+      "name": "BARGE ATHARV VIJAY",
+      "CO": {
+        "CO1_UT1": 7,
+        "CO2_UT1": 5,
+        "CO3_UT1": 10,
+        "CO4_UT2": 6,
+        "CO5_UT2": 9,
+        "CO6_UT2": 4,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d4d2"
+        }
+      },
+      "SPPU": 61,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d4d1"
+      }
+    },
+    {
+      "srNo": 9,
+      "rollNo": "33109",
+      "seatNo": "T190058523",
+      "name": "BAVISKAR NEHAL SHANTARAM",
+      "CO": {
+        "CO1_UT1": 4,
+        "CO2_UT1": 9,
+        "CO3_UT1": 3,
+        "CO4_UT2": 6,
+        "CO5_UT2": 0,
+        "CO6_UT2": 8,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d4d4"
+        }
+      },
+      "SPPU": 68,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d4d3"
+      }
+    },
+    {
+      "srNo": 10,
+      "rollNo": "33110",
+      "seatNo": "T190058525",
+      "name": "BELSARE VAIDEHI GANESH",
+      "CO": {
+        "CO1_UT1": 6,
+        "CO2_UT1": 5,
+        "CO3_UT1": 5,
+        "CO4_UT2": 8,
+        "CO5_UT2": 5,
+        "CO6_UT2": 4,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d4d6"
+        }
+      },
+      "SPPU": 70,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d4d5"
+      }
+    },
+    {
+      "srNo": 11,
+      "rollNo": "33111",
+      "seatNo": "T190058526",
+      "name": "BHAGAT GAURAV SHANKAR",
+      "CO": {
+        "CO1_UT1": 5,
+        "CO2_UT1": 10,
+        "CO3_UT1": 0,
+        "CO4_UT2": 4,
+        "CO5_UT2": 3,
+        "CO6_UT2": 8,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d4d8"
+        }
+      },
+      "SPPU": 73,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d4d7"
+      }
+    },
+    {
+      "srNo": 12,
+      "rollNo": "33112",
+      "seatNo": "T190058529",
+      "name": "BHARGAV RUCHITA HEMKANT",
+      "CO": {
+        "CO1_UT1": 7,
+        "CO2_UT1": 5,
+        "CO3_UT1": 3,
+        "CO4_UT2": 5,
+        "CO5_UT2": 0,
+        "CO6_UT2": 0,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d4da"
+        }
+      },
+      "SPPU": 73,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d4d9"
+      }
+    },
+    {
+      "srNo": 13,
+      "rollNo": "33113",
+      "seatNo": "T190058533",
+      "name": "BONDE PIYUSH RAMESH",
+      "CO": {
+        "CO1_UT1": 4,
+        "CO2_UT1": 10,
+        "CO3_UT1": 5,
+        "CO4_UT2": 0,
+        "CO5_UT2": 9,
+        "CO6_UT2": 0,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d4dc"
+        }
+      },
+      "SPPU": 83,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d4db"
+      }
+    },
+    {
+      "srNo": 14,
+      "rollNo": "33116",
+      "seatNo": "T190058539",
+      "name": "CHAUHAN ANISH ATULSINGH",
+      "CO": {
+        "CO1_UT1": 10,
+        "CO2_UT1": 8,
+        "CO3_UT1": 4,
+        "CO4_UT2": 2,
+        "CO5_UT2": 4,
+        "CO6_UT2": 6,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d4de"
+        }
+      },
+      "SPPU": 72,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d4dd"
+      }
+    },
+    {
+      "srNo": 15,
+      "rollNo": "33118",
+      "seatNo": "T190058544",
+      "name": "CHILLAL TANAY RATINDRA",
+      "CO": {
+        "CO1_UT1": 5,
+        "CO2_UT1": 10,
+        "CO3_UT1": 3,
+        "CO4_UT2": 7,
+        "CO5_UT2": 6,
+        "CO6_UT2": 3,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d4e0"
+        }
+      },
+      "SPPU": 73,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d4df"
+      }
+    },
+    {
+      "srNo": 16,
+      "rollNo": "33119",
+      "seatNo": "T190058545",
+      "name": "CHOPADE YASH VIJAY",
+      "CO": {
+        "CO1_UT1": 10,
+        "CO2_UT1": 5,
+        "CO3_UT1": 6,
+        "CO4_UT2": 5,
+        "CO5_UT2": 6,
+        "CO6_UT2": 2,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d4e2"
+        }
+      },
+      "SPPU": 82,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d4e1"
+      }
+    },
+    {
+      "srNo": 17,
+      "rollNo": "33120",
+      "seatNo": "T190058548",
+      "name": "DARSHAN UDIKERI",
+      "CO": {
+        "CO1_UT1": 10,
+        "CO2_UT1": 5,
+        "CO3_UT1": 10,
+        "CO4_UT2": 8,
+        "CO5_UT2": 5,
+        "CO6_UT2": 0,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d4e4"
+        }
+      },
+      "SPPU": 69,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d4e3"
+      }
+    },
+    {
+      "srNo": 18,
+      "rollNo": "33121",
+      "seatNo": "T190058552",
+      "name": "DHAKE AMEYA AJAY",
+      "CO": {
+        "CO1_UT1": 4,
+        "CO2_UT1": 5,
+        "CO3_UT1": 6,
+        "CO4_UT2": 6,
+        "CO5_UT2": 0,
+        "CO6_UT2": 7,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d4e6"
+        }
+      },
+      "SPPU": 82,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d4e5"
+      }
+    },
+    {
+      "srNo": 19,
+      "rollNo": "33122",
+      "seatNo": "T190058554",
+      "name": "DHAVALE YASH YOGESH",
+      "CO": {
+        "CO1_UT1": 10,
+        "CO2_UT1": 10,
+        "CO3_UT1": 8,
+        "CO4_UT2": 10,
+        "CO5_UT2": 9,
+        "CO6_UT2": 7,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d4e8"
+        }
+      },
+      "SPPU": 89,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d4e7"
+      }
+    },
+    {
+      "srNo": 20,
+      "rollNo": "33123",
+      "seatNo": "T190058556",
+      "name": "DHUMANE SOHAM SACHIN",
+      "CO": {
+        "CO1_UT1": 6,
+        "CO2_UT1": 5,
+        "CO3_UT1": 6,
+        "CO4_UT2": 5,
+        "CO5_UT2": 0,
+        "CO6_UT2": 8,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d4ea"
+        }
+      },
+      "SPPU": 82,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d4e9"
+      }
+    },
+    {
+      "srNo": 21,
+      "rollNo": "33124",
+      "seatNo": "T190058559",
+      "name": "ESHA SHEKHAR TALATHI",
+      "CO": {
+        "CO1_UT1": 4,
+        "CO2_UT1": 10,
+        "CO3_UT1": 6,
+        "CO4_UT2": 3,
+        "CO5_UT2": 5,
+        "CO6_UT2": 6,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d4ec"
+        }
+      },
+      "SPPU": 76,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d4eb"
+      }
+    },
+    {
+      "srNo": 22,
+      "rollNo": "33125",
+      "seatNo": "T190058564",
+      "name": "GAWARI YASH LAXMAN",
+      "CO": {
+        "CO1_UT1": 6,
+        "CO2_UT1": 5,
+        "CO3_UT1": 2,
+        "CO4_UT2": 8,
+        "CO5_UT2": 0,
+        "CO6_UT2": 4,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d4ee"
+        }
+      },
+      "SPPU": 65,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d4ed"
+      }
+    },
+    {
+      "srNo": 23,
+      "rollNo": "33127",
+      "seatNo": "T190058567",
+      "name": "GOLE PRATHAMESH SANTOSH",
+      "CO": {
+        "CO1_UT1": 2,
+        "CO2_UT1": 8,
+        "CO3_UT1": 8,
+        "CO4_UT2": 6,
+        "CO5_UT2": 4,
+        "CO6_UT2": 0,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d4f0"
+        }
+      },
+      "SPPU": 76,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d4ef"
+      }
+    },
+    {
+      "srNo": 24,
+      "rollNo": "33129",
+      "seatNo": "T190058574",
+      "name": "HIMANSHU MARATHE",
+      "CO": {
+        "CO1_UT1": 5,
+        "CO2_UT1": 5,
+        "CO3_UT1": 10,
+        "CO4_UT2": 10,
+        "CO5_UT2": 2,
+        "CO6_UT2": 0,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d4f2"
+        }
+      },
+      "SPPU": 74,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d4f1"
+      }
+    },
+    {
+      "srNo": 25,
+      "rollNo": "33130",
+      "seatNo": "T190058576",
+      "name": "HOLE SIDDHANT VIJAY",
+      "CO": {
+        "CO1_UT1": 5,
+        "CO2_UT1": 5,
+        "CO3_UT1": 0,
+        "CO4_UT2": 2,
+        "CO5_UT2": 0,
+        "CO6_UT2": 10,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d4f4"
+        }
+      },
+      "SPPU": 67,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d4f3"
+      }
+    },
+    {
+      "srNo": 26,
+      "rollNo": "33131",
+      "seatNo": "T190058579",
+      "name": "HUSAIN MOHAMMED ASHFAQ",
+      "CO": {
+        "CO1_UT1": 2,
+        "CO2_UT1": 7,
+        "CO3_UT1": 2,
+        "CO4_UT2": 6,
+        "CO5_UT2": 0,
+        "CO6_UT2": 6,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d4f6"
+        }
+      },
+      "SPPU": 72,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d4f5"
+      }
+    },
+    {
+      "srNo": 27,
+      "rollNo": "33132",
+      "seatNo": "T190058582",
+      "name": "INGOLE AKHILESH SOPAN",
+      "CO": {
+        "CO1_UT1": 7,
+        "CO2_UT1": 10,
+        "CO3_UT1": 10,
+        "CO4_UT2": 9,
+        "CO5_UT2": 5,
+        "CO6_UT2": 8,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d4f8"
+        }
+      },
+      "SPPU": 84,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d4f7"
+      }
+    },
+    {
+      "srNo": 28,
+      "rollNo": "33133",
+      "seatNo": "T190058585",
+      "name": "JADHAV VRUSHALI NANDALAL",
+      "CO": {
+        "CO1_UT1": 6,
+        "CO2_UT1": 7,
+        "CO3_UT1": 4,
+        "CO4_UT2": 3,
+        "CO5_UT2": 0,
+        "CO6_UT2": 5,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d4fa"
+        }
+      },
+      "SPPU": 75,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d4f9"
+      }
+    },
+    {
+      "srNo": 29,
+      "rollNo": "33134",
+      "seatNo": "T190058701",
+      "name": "SAMYAK JAIN",
+      "CO": {
+        "CO1_UT1": 8,
+        "CO2_UT1": 9,
+        "CO3_UT1": 4,
+        "CO4_UT2": 5,
+        "CO5_UT2": 10,
+        "CO6_UT2": 0,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d4fc"
+        }
+      },
+      "SPPU": 70,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d4fb"
+      }
+    },
+    {
+      "srNo": 30,
+      "rollNo": "33136",
+      "seatNo": "T190058592",
+      "name": "KADAM SHRUTI DNYANDEO",
+      "CO": {
+        "CO1_UT1": 6,
+        "CO2_UT1": 5,
+        "CO3_UT1": 2,
+        "CO4_UT2": 9,
+        "CO5_UT2": 0,
+        "CO6_UT2": 6,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d4fe"
+        }
+      },
+      "SPPU": 54,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d4fd"
+      }
+    },
+    {
+      "srNo": 31,
+      "rollNo": "33137",
+      "seatNo": "T190058595",
+      "name": "KALANTRI SANYOG SACHIN",
+      "CO": {
+        "CO1_UT1": 2,
+        "CO2_UT1": 8,
+        "CO3_UT1": 8,
+        "CO4_UT2": 2,
+        "CO5_UT2": 2,
+        "CO6_UT2": 2,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d500"
+        }
+      },
+      "SPPU": 79,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d4ff"
+      }
+    },
+    {
+      "srNo": 32,
+      "rollNo": "33138",
+      "seatNo": "T190058598",
+      "name": "KARANDE NIKITA HANAMANT",
+      "CO": {
+        "CO1_UT1": 10,
+        "CO2_UT1": 8,
+        "CO3_UT1": 5,
+        "CO4_UT2": 6,
+        "CO5_UT2": 5,
+        "CO6_UT2": 4,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d502"
+        }
+      },
+      "SPPU": 74,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d501"
+      }
+    },
+    {
+      "srNo": 33,
+      "rollNo": "33139",
+      "seatNo": "T190058602",
+      "name": "KESKAR AAROHI VISHWAS",
+      "CO": {
+        "CO1_UT1": 2,
+        "CO2_UT1": 7,
+        "CO3_UT1": 5,
+        "CO4_UT2": 4,
+        "CO5_UT2": 4,
+        "CO6_UT2": 1,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d504"
+        }
+      },
+      "SPPU": 73,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d503"
+      }
+    },
+    {
+      "srNo": 34,
+      "rollNo": "33140",
+      "seatNo": "T190058604",
+      "name": "KHADE TRUPTI TANAJI",
+      "CO": {
+        "CO1_UT1": 2,
+        "CO2_UT1": 4,
+        "CO3_UT1": 10,
+        "CO4_UT2": 5,
+        "CO5_UT2": 7,
+        "CO6_UT2": 0,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d506"
+        }
+      },
+      "SPPU": 79,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d505"
+      }
+    },
+    {
+      "srNo": 35,
+      "rollNo": "33141",
+      "seatNo": "T190058607",
+      "name": "KHUDE PRATHMESH DATTA",
+      "CO": {
+        "CO1_UT1": 2,
+        "CO2_UT1": 5,
+        "CO3_UT1": 4,
+        "CO4_UT2": 6,
+        "CO5_UT2": 4,
+        "CO6_UT2": 6,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d508"
+        }
+      },
+      "SPPU": 75,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d507"
+      }
+    },
+    {
+      "srNo": 36,
+      "rollNo": "33142",
+      "seatNo": "T190058610",
+      "name": "KITTAD SANKET VITTHAL",
+      "CO": {
+        "CO1_UT1": 5,
+        "CO2_UT1": 10,
+        "CO3_UT1": 5,
+        "CO4_UT2": 6,
+        "CO5_UT2": 0,
+        "CO6_UT2": 6,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d50a"
+        }
+      },
+      "SPPU": 79,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d509"
+      }
+    },
+    {
+      "srNo": 37,
+      "rollNo": "33143",
+      "seatNo": "T190058613",
+      "name": "KOKATE SAYALI BHAUSAHEB",
+      "CO": {
+        "CO1_UT1": 6,
+        "CO2_UT1": 7,
+        "CO3_UT1": 0,
+        "CO4_UT2": 8,
+        "CO5_UT2": 4,
+        "CO6_UT2": 6,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d50c"
+        }
+      },
+      "SPPU": 80,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d50b"
+      }
+    },
+    {
+      "srNo": 38,
+      "rollNo": "33145",
+      "seatNo": "T190058621",
+      "name": "KULKARNI SOHAM SUDHIR",
+      "CO": {
+        "CO1_UT1": 7,
+        "CO2_UT1": 8,
+        "CO3_UT1": 0,
+        "CO4_UT2": 4,
+        "CO5_UT2": 3,
+        "CO6_UT2": 5,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d50e"
+        }
+      },
+      "SPPU": 79,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d50d"
+      }
+    },
+    {
+      "srNo": 39,
+      "rollNo": "33147",
+      "seatNo": "T190058627",
+      "name": "LANDE ROHIT UTTAM",
+      "CO": {
+        "CO1_UT1": 5,
+        "CO2_UT1": 8,
+        "CO3_UT1": 1,
+        "CO4_UT2": 8,
+        "CO5_UT2": 4,
+        "CO6_UT2": 6,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d510"
+        }
+      },
+      "SPPU": 85,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d50f"
+      }
+    },
+    {
+      "srNo": 40,
+      "rollNo": "33148",
+      "seatNo": "T190058630",
+      "name": "MAHAJAN VAIBHAV NIVRUTTI",
+      "CO": {
+        "CO1_UT1": 7,
+        "CO2_UT1": 10,
+        "CO3_UT1": 5,
+        "CO4_UT2": 5,
+        "CO5_UT2": 5,
+        "CO6_UT2": 6,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d512"
+        }
+      },
+      "SPPU": 77,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d511"
+      }
+    },
+    {
+      "srNo": 41,
+      "rollNo": "33149",
+      "seatNo": "T190058634",
+      "name": "MALIK KHALID RAZA RAHBAR",
+      "CO": {
+        "CO1_UT1": 7,
+        "CO2_UT1": 2,
+        "CO3_UT1": 4,
+        "CO4_UT2": 0,
+        "CO5_UT2": 0,
+        "CO6_UT2": 0,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d514"
+        }
+      },
+      "SPPU": 76,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d513"
+      }
+    },
+    {
+      "srNo": 42,
+      "rollNo": "33150",
+      "seatNo": "T190058637",
+      "name": "MANE RAJVARDHAN MANGESH",
+      "CO": {
+        "CO1_UT1": 3,
+        "CO2_UT1": 7,
+        "CO3_UT1": 3,
+        "CO4_UT2": 10,
+        "CO5_UT2": 2,
+        "CO6_UT2": 4,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d516"
+        }
+      },
+      "SPPU": 74,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d515"
+      }
+    },
+    {
+      "srNo": 43,
+      "rollNo": "33151",
+      "seatNo": "T190058642",
+      "name": "MHATRE AJINKYA AJIT",
+      "CO": {
+        "CO1_UT1": 3,
+        "CO2_UT1": 5,
+        "CO3_UT1": 5,
+        "CO4_UT2": 6,
+        "CO5_UT2": 5,
+        "CO6_UT2": 1,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d518"
+        }
+      },
+      "SPPU": 64,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d517"
+      }
+    },
+    {
+      "srNo": 44,
+      "rollNo": "33152",
+      "seatNo": "T190058645",
+      "name": "MOKSHAD VAIDYA",
+      "CO": {
+        "CO1_UT1": 10,
+        "CO2_UT1": 9,
+        "CO3_UT1": 4,
+        "CO4_UT2": 6,
+        "CO5_UT2": 5,
+        "CO6_UT2": 6,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d51a"
+        }
+      },
+      "SPPU": 71,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d519"
+      }
+    },
+    {
+      "srNo": 45,
+      "rollNo": "33153",
+      "seatNo": "T190058648",
+      "name": "NAGARE ATHARVA RAJENDRA",
+      "CO": {
+        "CO1_UT1": 0,
+        "CO2_UT1": 0,
+        "CO3_UT1": 0,
+        "CO4_UT2": 0,
+        "CO5_UT2": 0,
+        "CO6_UT2": 0,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d51c"
+        }
+      },
+      "SPPU": 77,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d51b"
+      }
+    },
+    {
+      "srNo": 46,
+      "rollNo": "33154",
+      "seatNo": "T190058651",
+      "name": "NARKHEDE MANDAR MOHAN",
+      "CO": {
+        "CO1_UT1": 3,
+        "CO2_UT1": 8,
+        "CO3_UT1": 3,
+        "CO4_UT2": 5,
+        "CO5_UT2": 1,
+        "CO6_UT2": 6,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d51e"
+        }
+      },
+      "SPPU": 68,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d51d"
+      }
+    },
+    {
+      "srNo": 47,
+      "rollNo": "33155",
+      "seatNo": "T190058654",
+      "name": "OM ACHARYA",
+      "CO": {
+        "CO1_UT1": 10,
+        "CO2_UT1": 5,
+        "CO3_UT1": 4,
+        "CO4_UT2": 1,
+        "CO5_UT2": 5,
+        "CO6_UT2": 5,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d520"
+        }
+      },
+      "SPPU": 68,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d51f"
+      }
+    },
+    {
+      "srNo": 48,
+      "rollNo": "33156",
+      "seatNo": "T190058657",
+      "name": "PARMAR VISHAKHA DAGADUSING",
+      "CO": {
+        "CO1_UT1": 3,
+        "CO2_UT1": 8,
+        "CO3_UT1": 6,
+        "CO4_UT2": 7,
+        "CO5_UT2": 5,
+        "CO6_UT2": 0,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d522"
+        }
+      },
+      "SPPU": 73,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d521"
+      }
+    },
+    {
+      "srNo": 49,
+      "rollNo": "33157",
+      "seatNo": "T190058660",
+      "name": "PATIL BHUSHAN VISHWASRAO",
+      "CO": {
+        "CO1_UT1": 0,
+        "CO2_UT1": 0,
+        "CO3_UT1": 0,
+        "CO4_UT2": 0,
+        "CO5_UT2": 2,
+        "CO6_UT2": 0,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d524"
+        }
+      },
+      "SPPU": 68,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d523"
+      }
+    },
+    {
+      "srNo": 50,
+      "rollNo": "33158",
+      "seatNo": "T190058664",
+      "name": "PATIL KARTIK TUSHAR",
+      "CO": {
+        "CO1_UT1": 10,
+        "CO2_UT1": 10,
+        "CO3_UT1": 9,
+        "CO4_UT2": 9,
+        "CO5_UT2": 5,
+        "CO6_UT2": 8,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d526"
+        }
+      },
+      "SPPU": 88,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d525"
+      }
+    },
+    {
+      "srNo": 51,
+      "rollNo": "33159",
+      "seatNo": "T190058667",
+      "name": "PATIL SUJIT JAGATRAO",
+      "CO": {
+        "CO1_UT1": 9,
+        "CO2_UT1": 10,
+        "CO3_UT1": 4,
+        "CO4_UT2": 7,
+        "CO5_UT2": 0,
+        "CO6_UT2": 8,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d528"
+        }
+      },
+      "SPPU": 66,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d527"
+      }
+    },
+    {
+      "srNo": 52,
+      "rollNo": "33162",
+      "seatNo": "T190058677",
+      "name": "PIYUSH TALEGAONKAR",
+      "CO": {
+        "CO1_UT1": 9,
+        "CO2_UT1": 7,
+        "CO3_UT1": 0,
+        "CO4_UT2": 9,
+        "CO5_UT2": 0,
+        "CO6_UT2": 8,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d52a"
+        }
+      },
+      "SPPU": 61,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d529"
+      }
+    },
+    {
+      "srNo": 53,
+      "rollNo": "33163",
+      "seatNo": "T190058680",
+      "name": "PRABHUNE AMAN ABHAY",
+      "CO": {
+        "CO1_UT1": 6,
+        "CO2_UT1": 3,
+        "CO3_UT1": 0,
+        "CO4_UT2": 0,
+        "CO5_UT2": 0,
+        "CO6_UT2": 0,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d52c"
+        }
+      },
+      "SPPU": 83,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d52b"
+      }
+    },
+    {
+      "srNo": 54,
+      "rollNo": "33165",
+      "seatNo": "T190058687",
+      "name": "RAHUL SAKHARKAR",
+      "CO": {
+        "CO1_UT1": 10,
+        "CO2_UT1": 10,
+        "CO3_UT1": 3,
+        "CO4_UT2": 5,
+        "CO5_UT2": 3,
+        "CO6_UT2": 5,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d52e"
+        }
+      },
+      "SPPU": 67,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d52d"
+      }
+    },
+    {
+      "srNo": 55,
+      "rollNo": "33166",
+      "seatNo": "T190058691",
+      "name": "RATHI GARIMA SHARADKUMAR",
+      "CO": {
+        "CO1_UT1": 5,
+        "CO2_UT1": 6,
+        "CO3_UT1": 5,
+        "CO4_UT2": 4,
+        "CO5_UT2": 5,
+        "CO6_UT2": 7,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d530"
+        }
+      },
+      "SPPU": 76,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d52f"
+      }
+    },
+    {
+      "srNo": 56,
+      "rollNo": "33167",
+      "seatNo": "T190058695",
+      "name": "RITESH BHAT",
+      "CO": {
+        "CO1_UT1": 0,
+        "CO2_UT1": 0,
+        "CO3_UT1": 0,
+        "CO4_UT2": 0,
+        "CO5_UT2": 0,
+        "CO6_UT2": 0,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d532"
+        }
+      },
+      "SPPU": 0,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d531"
+      }
+    },
+    {
+      "srNo": 57,
+      "rollNo": "33168",
+      "seatNo": "T190058698",
+      "name": "SAFIYA AMIN",
+      "CO": {
+        "CO1_UT1": 3,
+        "CO2_UT1": 10,
+        "CO3_UT1": 10,
+        "CO4_UT2": 6,
+        "CO5_UT2": 5,
+        "CO6_UT2": 6,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d534"
+        }
+      },
+      "SPPU": 80,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d533"
+      }
+    },
+    {
+      "srNo": 58,
+      "rollNo": "33169",
+      "seatNo": "T190058587",
+      "name": "JAIN SAMYAK VIJAY",
+      "CO": {
+        "CO1_UT1": 2,
+        "CO2_UT1": 10,
+        "CO3_UT1": 10,
+        "CO4_UT2": 8,
+        "CO5_UT2": 0,
+        "CO6_UT2": 0,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d536"
+        }
+      },
+      "SPPU": 89,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d535"
+      }
+    },
+    {
+      "srNo": 59,
+      "rollNo": "33170",
+      "seatNo": "T190058703",
+      "name": "SARTHAK BINDAL",
+      "CO": {
+        "CO1_UT1": 5,
+        "CO2_UT1": 7,
+        "CO3_UT1": 5,
+        "CO4_UT2": 4,
+        "CO5_UT2": 0,
+        "CO6_UT2": 0,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d538"
+        }
+      },
+      "SPPU": 80,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d537"
+      }
+    },
+    {
+      "srNo": 60,
+      "rollNo": "33171",
+      "seatNo": "T190058708",
+      "name": "SAYYED ARMAN QAMAR",
+      "CO": {
+        "CO1_UT1": 9,
+        "CO2_UT1": 10,
+        "CO3_UT1": 5,
+        "CO4_UT2": 8,
+        "CO5_UT2": 4,
+        "CO6_UT2": 6,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d53a"
+        }
+      },
+      "SPPU": 81,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d539"
+      }
+    },
+    {
+      "srNo": 61,
+      "rollNo": "33172",
+      "seatNo": "T190058711",
+      "name": "SHAH KUNJ CHIRAG",
+      "CO": {
+        "CO1_UT1": 3,
+        "CO2_UT1": 9,
+        "CO3_UT1": 3,
+        "CO4_UT2": 4,
+        "CO5_UT2": 0,
+        "CO6_UT2": 2,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d53c"
+        }
+      },
+      "SPPU": 66,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d53b"
+      }
+    },
+    {
+      "srNo": 62,
+      "rollNo": "33173",
+      "seatNo": "T190058714",
+      "name": "SHELAR SHUBHAM DILIP",
+      "CO": {
+        "CO1_UT1": 9,
+        "CO2_UT1": 10,
+        "CO3_UT1": 3,
+        "CO4_UT2": 5,
+        "CO5_UT2": 8,
+        "CO6_UT2": 4,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d53e"
+        }
+      },
+      "SPPU": 77,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d53d"
+      }
+    },
+    {
+      "srNo": 63,
+      "rollNo": "33174",
+      "seatNo": "T190058718",
+      "name": "SHETH SOHAM RAHUL",
+      "CO": {
+        "CO1_UT1": 2,
+        "CO2_UT1": 8,
+        "CO3_UT1": 5,
+        "CO4_UT2": 4,
+        "CO5_UT2": 0,
+        "CO6_UT2": 3,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d540"
+        }
+      },
+      "SPPU": 62,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d53f"
+      }
+    },
+    {
+      "srNo": 64,
+      "rollNo": "33175",
+      "seatNo": "T190058721",
+      "name": "SHINDE SAUMITRA KUNDLIK",
+      "CO": {
+        "CO1_UT1": 10,
+        "CO2_UT1": 7,
+        "CO3_UT1": 3,
+        "CO4_UT2": 10,
+        "CO5_UT2": 0,
+        "CO6_UT2": 4,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d542"
+        }
+      },
+      "SPPU": 68,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d541"
+      }
+    },
+    {
+      "srNo": 65,
+      "rollNo": "33176",
+      "seatNo": "T190058725",
+      "name": "SONAWANE PRATIK RAVINDRA",
+      "CO": {
+        "CO1_UT1": 3,
+        "CO2_UT1": 10,
+        "CO3_UT1": 4,
+        "CO4_UT2": 10,
+        "CO5_UT2": 5,
+        "CO6_UT2": 6,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d544"
+        }
+      },
+      "SPPU": 82,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d543"
+      }
+    },
+    {
+      "srNo": 66,
+      "rollNo": "33177",
+      "seatNo": "T190058730",
+      "name": "SURVASE ROHAN SUHAS",
+      "CO": {
+        "CO1_UT1": 10,
+        "CO2_UT1": 10,
+        "CO3_UT1": 0,
+        "CO4_UT2": 8,
+        "CO5_UT2": 4,
+        "CO6_UT2": 8,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d546"
+        }
+      },
+      "SPPU": 73,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d545"
+      }
+    },
+    {
+      "srNo": 67,
+      "rollNo": "33178",
+      "seatNo": "T190058734",
+      "name": "TAKALIKAR GAURI SUNIL",
+      "CO": {
+        "CO1_UT1": 2,
+        "CO2_UT1": 5,
+        "CO3_UT1": 10,
+        "CO4_UT2": 0,
+        "CO5_UT2": 0,
+        "CO6_UT2": 0,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d548"
+        }
+      },
+      "SPPU": 55,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d547"
+      }
+    },
+    {
+      "srNo": 68,
+      "rollNo": "33179",
+      "seatNo": "T190058738",
+      "name": "THAKUR YASHRAJ SANJAY",
+      "CO": {
+        "CO1_UT1": 1,
+        "CO2_UT1": 2,
+        "CO3_UT1": 0,
+        "CO4_UT2": 5,
+        "CO5_UT2": 0,
+        "CO6_UT2": 0,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d54a"
+        }
+      },
+      "SPPU": 69,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d549"
+      }
+    },
+    {
+      "srNo": 69,
+      "rollNo": "33180",
+      "seatNo": "T190058742",
+      "name": "VASTE BALAJI NAMDEO",
+      "CO": {
+        "CO1_UT1": 5,
+        "CO2_UT1": 9,
+        "CO3_UT1": 4,
+        "CO4_UT2": 4,
+        "CO5_UT2": 0,
+        "CO6_UT2": 0,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d54c"
+        }
+      },
+      "SPPU": 60,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d54b"
+      }
+    },
+    {
+      "srNo": 70,
+      "rollNo": "33181",
+      "seatNo": "T190058745",
+      "name": "WADEKAR OMKAR SHRIRAM",
+      "CO": {
+        "CO1_UT1": 5,
+        "CO2_UT1": 10,
+        "CO3_UT1": 4,
+        "CO4_UT2": 5,
+        "CO5_UT2": 5,
+        "CO6_UT2": 2,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d54e"
+        }
+      },
+      "SPPU": 77,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d54d"
+      }
+    },
+    {
+      "srNo": 71,
+      "rollNo": "33182",
+      "seatNo": "T190058749",
+      "name": "WAGHMARE HARSH GANESH",
+      "CO": {
+        "CO1_UT1": 5,
+        "CO2_UT1": 7,
+        "CO3_UT1": 3,
+        "CO4_UT2": 4,
+        "CO5_UT2": 4,
+        "CO6_UT2": 6,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d550"
+        }
+      },
+      "SPPU": 71,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d54f"
+      }
+    },
+    {
+      "srNo": 72,
+      "rollNo": "33183",
+      "seatNo": "T190058752",
+      "name": "YACHAWAD MANSI TANAJI",
+      "CO": {
+        "CO1_UT1": 2,
+        "CO2_UT1": 10,
+        "CO3_UT1": 5,
+        "CO4_UT2": 2,
+        "CO5_UT2": 6,
+        "CO6_UT2": 8,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d552"
+        }
+      },
+      "SPPU": 76,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d551"
+      }
+    },
+    {
+      "srNo": 1,
+      "rollNo": "33201",
+      "seatNo": "T190058502",
+      "name": "ADITYA RAJENDRA THORAT",
+      "CO": {
+        "CO1_UT1": 8,
+        "CO2_UT1": 10,
+        "CO3_UT1": 0,
+        "CO4_UT2": 3,
+        "CO5_UT2": 10,
+        "CO6_UT2": 6,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d554"
+        }
+      },
+      "SPPU": 62,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d553"
+      }
+    },
+    {
+      "srNo": 2,
+      "rollNo": "33203",
+      "seatNo": "T190058506",
+      "name": "AMBEKAR TEJAS MUKUND",
+      "CO": {
+        "CO1_UT1": 4,
+        "CO2_UT1": 7,
+        "CO3_UT1": 6,
+        "CO4_UT2": 9,
+        "CO5_UT2": 2,
+        "CO6_UT2": 6,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d556"
+        }
+      },
+      "SPPU": 83,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d555"
+      }
+    },
+    {
+      "srNo": 3,
+      "rollNo": "33204",
+      "seatNo": "T190058509",
+      "name": "ANUSHKA DE",
+      "CO": {
+        "CO1_UT1": 8,
+        "CO2_UT1": 10,
+        "CO3_UT1": 4,
+        "CO4_UT2": 9,
+        "CO5_UT2": 10,
+        "CO6_UT2": 8,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d558"
+        }
+      },
+      "SPPU": 79,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d557"
+      }
+    },
+    {
+      "srNo": 4,
+      "rollNo": "33205",
+      "seatNo": "T190058515",
+      "name": "AWAD MAITREYA DEEPAK",
+      "CO": {
+        "CO1_UT1": 4,
+        "CO2_UT1": 10,
+        "CO3_UT1": 0,
+        "CO4_UT2": 6,
+        "CO5_UT2": 5,
+        "CO6_UT2": 5,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d55a"
+        }
+      },
+      "SPPU": 67,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d559"
+      }
+    },
+    {
+      "srNo": 5,
+      "rollNo": "33206",
+      "seatNo": "T190058518",
+      "name": "BANDAL ADWAIT ABHIJIT",
+      "CO": {
+        "CO1_UT1": 6,
+        "CO2_UT1": 8,
+        "CO3_UT1": 5,
+        "CO4_UT2": 5,
+        "CO5_UT2": 5,
+        "CO6_UT2": 4,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d55c"
+        }
+      },
+      "SPPU": 62,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d55b"
+      }
+    },
+    {
+      "srNo": 6,
+      "rollNo": "33207",
+      "seatNo": "T190058519",
+      "name": "BAPECHA PURVA MAHESH",
+      "CO": {
+        "CO1_UT1": 8,
+        "CO2_UT1": 7,
+        "CO3_UT1": 0,
+        "CO4_UT2": 9,
+        "CO5_UT2": 5,
+        "CO6_UT2": 3,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d55e"
+        }
+      },
+      "SPPU": 80,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d55d"
+      }
+    },
+    {
+      "srNo": 7,
+      "rollNo": "33208",
+      "seatNo": "T190058521",
+      "name": "BARGE PARESH PURUSHOTTAM",
+      "CO": {
+        "CO1_UT1": 2,
+        "CO2_UT1": 8,
+        "CO3_UT1": 7,
+        "CO4_UT2": 6,
+        "CO5_UT2": 0,
+        "CO6_UT2": 7,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d560"
+        }
+      },
+      "SPPU": 68,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d55f"
+      }
+    },
+    {
+      "srNo": 8,
+      "rollNo": "33209",
+      "seatNo": "T190058524",
+      "name": "BEDMUTHA DEVESH SANDEEP",
+      "CO": {
+        "CO1_UT1": 4,
+        "CO2_UT1": 8,
+        "CO3_UT1": 9,
+        "CO4_UT2": 9,
+        "CO5_UT2": 9,
+        "CO6_UT2": 5,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d562"
+        }
+      },
+      "SPPU": 82,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d561"
+      }
+    },
+    {
+      "srNo": 9,
+      "rollNo": "33210",
+      "seatNo": "T190058527",
+      "name": "BHAIK YASHRAJ SANJAY",
+      "CO": {
+        "CO1_UT1": 2,
+        "CO2_UT1": 5,
+        "CO3_UT1": 5,
+        "CO4_UT2": 0,
+        "CO5_UT2": 0,
+        "CO6_UT2": 0,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d564"
+        }
+      },
+      "SPPU": 0,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d563"
+      }
+    },
+    {
+      "srNo": 10,
+      "rollNo": "33211",
+      "seatNo": "T190058528",
+      "name": "BHANDARI DARSHANKUMAR NARENDRA",
+      "CO": {
+        "CO1_UT1": 3,
+        "CO2_UT1": 8,
+        "CO3_UT1": 7,
+        "CO4_UT2": 8,
+        "CO5_UT2": 5,
+        "CO6_UT2": 2,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d566"
+        }
+      },
+      "SPPU": 65,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d565"
+      }
+    },
+    {
+      "srNo": 11,
+      "rollNo": "33212",
+      "seatNo": "T190058531",
+      "name": "BHAVSAR SAKSHI GHANASHYAM",
+      "CO": {
+        "CO1_UT1": 7,
+        "CO2_UT1": 10,
+        "CO3_UT1": 7,
+        "CO4_UT2": 10,
+        "CO5_UT2": 6,
+        "CO6_UT2": 9,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d568"
+        }
+      },
+      "SPPU": 59,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d567"
+      }
+    },
+    {
+      "srNo": 12,
+      "rollNo": "33213",
+      "seatNo": "T190058534",
+      "name": "BORA PIYUSH RAHUL",
+      "CO": {
+        "CO1_UT1": 5,
+        "CO2_UT1": 8,
+        "CO3_UT1": 2,
+        "CO4_UT2": 7,
+        "CO5_UT2": 4,
+        "CO6_UT2": 9,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d56a"
+        }
+      },
+      "SPPU": 70,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d569"
+      }
+    },
+    {
+      "srNo": 13,
+      "rollNo": "33214",
+      "seatNo": "T190058537",
+      "name": "CHANDAK YASHASHREE KAILASH",
+      "CO": {
+        "CO1_UT1": 6,
+        "CO2_UT1": 7,
+        "CO3_UT1": 2,
+        "CO4_UT2": 4,
+        "CO5_UT2": 4,
+        "CO6_UT2": 4,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d56c"
+        }
+      },
+      "SPPU": 68,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d56b"
+      }
+    },
+    {
+      "srNo": 14,
+      "rollNo": "33215",
+      "seatNo": "T190058538",
+      "name": "CHAUDHARI HARSH ANIL",
+      "CO": {
+        "CO1_UT1": 7,
+        "CO2_UT1": 10,
+        "CO3_UT1": 2,
+        "CO4_UT2": 7,
+        "CO5_UT2": 0,
+        "CO6_UT2": 9,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d56e"
+        }
+      },
+      "SPPU": 77,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d56d"
+      }
+    },
+    {
+      "srNo": 15,
+      "rollNo": "33216",
+      "seatNo": "T190058540",
+      "name": "CHAURE DIGAMBAR LAXMAN",
+      "CO": {
+        "CO1_UT1": 9,
+        "CO2_UT1": 10,
+        "CO3_UT1": 4,
+        "CO4_UT2": 7,
+        "CO5_UT2": 0,
+        "CO6_UT2": 6,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d570"
+        }
+      },
+      "SPPU": 72,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d56f"
+      }
+    },
+    {
+      "srNo": 16,
+      "rollNo": "33217",
+      "seatNo": "T190058543",
+      "name": "CHENDAKE SAYALI PRASHANT",
+      "CO": {
+        "CO1_UT1": 3,
+        "CO2_UT1": 7,
+        "CO3_UT1": 2,
+        "CO4_UT2": 8,
+        "CO5_UT2": 1,
+        "CO6_UT2": 6,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d572"
+        }
+      },
+      "SPPU": 71,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d571"
+      }
+    },
+    {
+      "srNo": 17,
+      "rollNo": "33218",
+      "seatNo": "T190058546",
+      "name": "DALVI AMAR RAVINDRA",
+      "CO": {
+        "CO1_UT1": 5,
+        "CO2_UT1": 5,
+        "CO3_UT1": 2,
+        "CO4_UT2": 5,
+        "CO5_UT2": 0,
+        "CO6_UT2": 9,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d574"
+        }
+      },
+      "SPPU": 71,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d573"
+      }
+    },
+    {
+      "srNo": 18,
+      "rollNo": "33219",
+      "seatNo": "T190058547",
+      "name": "DAMANI NAMAN HITESH",
+      "CO": {
+        "CO1_UT1": 4,
+        "CO2_UT1": 8,
+        "CO3_UT1": 3,
+        "CO4_UT2": 9,
+        "CO5_UT2": 4,
+        "CO6_UT2": 9,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d576"
+        }
+      },
+      "SPPU": 71,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d575"
+      }
+    },
+    {
+      "srNo": 19,
+      "rollNo": "33222",
+      "seatNo": "T190058557",
+      "name": "DODIA RONAK",
+      "CO": {
+        "CO1_UT1": 6,
+        "CO2_UT1": 8,
+        "CO3_UT1": 2,
+        "CO4_UT2": 7,
+        "CO5_UT2": 1,
+        "CO6_UT2": 10,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d578"
+        }
+      },
+      "SPPU": 60,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d577"
+      }
+    },
+    {
+      "srNo": 20,
+      "rollNo": "33224",
+      "seatNo": "T190058560",
+      "name": "GABHALE PRATIK RAMDAS",
+      "CO": {
+        "CO1_UT1": 2,
+        "CO2_UT1": 8,
+        "CO3_UT1": 2,
+        "CO4_UT2": 7,
+        "CO5_UT2": 0,
+        "CO6_UT2": 5,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d57a"
+        }
+      },
+      "SPPU": 69,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d579"
+      }
+    },
+    {
+      "srNo": 21,
+      "rollNo": "33227",
+      "seatNo": "T190058570",
+      "name": "GOREGAONKAR TANMAY DEEPAK",
+      "CO": {
+        "CO1_UT1": 4,
+        "CO2_UT1": 10,
+        "CO3_UT1": 4,
+        "CO4_UT2": 8,
+        "CO5_UT2": 0,
+        "CO6_UT2": 0,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d57c"
+        }
+      },
+      "SPPU": 67,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d57b"
+      }
+    },
+    {
+      "srNo": 22,
+      "rollNo": "33228",
+      "seatNo": "T190058572",
+      "name": "GUPTA AYUSH JITENDRA",
+      "CO": {
+        "CO1_UT1": 7,
+        "CO2_UT1": 7,
+        "CO3_UT1": 0,
+        "CO4_UT2": 0,
+        "CO5_UT2": 0,
+        "CO6_UT2": 0,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d57e"
+        }
+      },
+      "SPPU": 74,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d57d"
+      }
+    },
+    {
+      "srNo": 23,
+      "rollNo": "33229",
+      "seatNo": "T190058575",
+      "name": "HINGE SHLOK NIVRUTTI",
+      "CO": {
+        "CO1_UT1": 3,
+        "CO2_UT1": 10,
+        "CO3_UT1": 7,
+        "CO4_UT2": 9,
+        "CO5_UT2": 0,
+        "CO6_UT2": 8,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d580"
+        }
+      },
+      "SPPU": 80,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d57f"
+      }
+    },
+    {
+      "srNo": 24,
+      "rollNo": "33230",
+      "seatNo": "T190058580",
+      "name": "INAMDAR MIHIR SANJEEV",
+      "CO": {
+        "CO1_UT1": 6,
+        "CO2_UT1": 4,
+        "CO3_UT1": 2,
+        "CO4_UT2": 0,
+        "CO5_UT2": 0,
+        "CO6_UT2": 0,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d582"
+        }
+      },
+      "SPPU": 48,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d581"
+      }
+    },
+    {
+      "srNo": 25,
+      "rollNo": "33232",
+      "seatNo": "T190058583",
+      "name": "JADHAV ABHISHEK PURUSHOTTAM",
+      "CO": {
+        "CO1_UT1": 3,
+        "CO2_UT1": 10,
+        "CO3_UT1": 2,
+        "CO4_UT2": 8,
+        "CO5_UT2": 4,
+        "CO6_UT2": 6,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d584"
+        }
+      },
+      "SPPU": 73,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d583"
+      }
+    },
+    {
+      "srNo": 26,
+      "rollNo": "33233",
+      "seatNo": "T190058586",
+      "name": "JAGDALE SHRUTI SURESH",
+      "CO": {
+        "CO1_UT1": 4,
+        "CO2_UT1": 2,
+        "CO3_UT1": 0,
+        "CO4_UT2": 0,
+        "CO5_UT2": 5,
+        "CO6_UT2": 0,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d586"
+        }
+      },
+      "SPPU": 59,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d585"
+      }
+    },
+    {
+      "srNo": 27,
+      "rollNo": "33234",
+      "seatNo": "T190058590",
+      "name": "JOSHI SANIKA MANDAR",
+      "CO": {
+        "CO1_UT1": 0,
+        "CO2_UT1": 6,
+        "CO3_UT1": 0,
+        "CO4_UT2": 1,
+        "CO5_UT2": 3,
+        "CO6_UT2": 8,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d588"
+        }
+      },
+      "SPPU": 68,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d587"
+      }
+    },
+    {
+      "srNo": 28,
+      "rollNo": "33235",
+      "seatNo": "T190058591",
+      "name": "KACHARE KUNAL MAHENDRA",
+      "CO": {
+        "CO1_UT1": 4,
+        "CO2_UT1": 5,
+        "CO3_UT1": 3,
+        "CO4_UT2": 0,
+        "CO5_UT2": 5,
+        "CO6_UT2": 7,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d58a"
+        }
+      },
+      "SPPU": 64,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d589"
+      }
+    },
+    {
+      "srNo": 29,
+      "rollNo": "33236",
+      "seatNo": "T190058593",
+      "name": "KADAM SMIT SUNIL",
+      "CO": {
+        "CO1_UT1": 2,
+        "CO2_UT1": 2,
+        "CO3_UT1": 0,
+        "CO4_UT2": 0,
+        "CO5_UT2": 4,
+        "CO6_UT2": 4,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d58c"
+        }
+      },
+      "SPPU": 0,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d58b"
+      }
+    },
+    {
+      "srNo": 30,
+      "rollNo": "33237",
+      "seatNo": "T190058596",
+      "name": "KALYANI ASHOK NILPANKAR",
+      "CO": {
+        "CO1_UT1": 3,
+        "CO2_UT1": 6,
+        "CO3_UT1": 0,
+        "CO4_UT2": 3,
+        "CO5_UT2": 0,
+        "CO6_UT2": 9,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d58e"
+        }
+      },
+      "SPPU": 73,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d58d"
+      }
+    },
+    {
+      "srNo": 31,
+      "rollNo": "33239",
+      "seatNo": "T190058603",
+      "name": "KHADE OMKAR SHANKAR",
+      "CO": {
+        "CO1_UT1": 9,
+        "CO2_UT1": 5,
+        "CO3_UT1": 0,
+        "CO4_UT2": 8,
+        "CO5_UT2": 5,
+        "CO6_UT2": 9,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d590"
+        }
+      },
+      "SPPU": 82,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d58f"
+      }
+    },
+    {
+      "srNo": 32,
+      "rollNo": "33241",
+      "seatNo": "T190058608",
+      "name": "KINIKAR ATHARVA PRADEEPRAO",
+      "CO": {
+        "CO1_UT1": 4,
+        "CO2_UT1": 6,
+        "CO3_UT1": 2,
+        "CO4_UT2": 5,
+        "CO5_UT2": 2,
+        "CO6_UT2": 7,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d592"
+        }
+      },
+      "SPPU": 82,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d591"
+      }
+    },
+    {
+      "srNo": 33,
+      "rollNo": "33242",
+      "seatNo": "T190058611",
+      "name": "KOGANUR AKSHAY ASHOK",
+      "CO": {
+        "CO1_UT1": 5,
+        "CO2_UT1": 10,
+        "CO3_UT1": 2,
+        "CO4_UT2": 6,
+        "CO5_UT2": 8,
+        "CO6_UT2": 9,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d594"
+        }
+      },
+      "SPPU": 79,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d593"
+      }
+    },
+    {
+      "srNo": 34,
+      "rollNo": "33243",
+      "seatNo": "T190058614",
+      "name": "KOTHARI SAHIL CHETAN",
+      "CO": {
+        "CO1_UT1": 4,
+        "CO2_UT1": 10,
+        "CO3_UT1": 0,
+        "CO4_UT2": 6,
+        "CO5_UT2": 5,
+        "CO6_UT2": 9,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d596"
+        }
+      },
+      "SPPU": 66,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d595"
+      }
+    },
+    {
+      "srNo": 35,
+      "rollNo": "33244",
+      "seatNo": "T190058618",
+      "name": "KULKARNI ATHARV MADAN",
+      "CO": {
+        "CO1_UT1": 2,
+        "CO2_UT1": 8,
+        "CO3_UT1": 6,
+        "CO4_UT2": 4,
+        "CO5_UT2": 5,
+        "CO6_UT2": 8,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d598"
+        }
+      },
+      "SPPU": 73,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d597"
+      }
+    },
+    {
+      "srNo": 36,
+      "rollNo": "33246",
+      "seatNo": "T190058625",
+      "name": "KUMTHEKAR TANISHA DINESH",
+      "CO": {
+        "CO1_UT1": 2,
+        "CO2_UT1": 10,
+        "CO3_UT1": 0,
+        "CO4_UT2": 9,
+        "CO5_UT2": 0,
+        "CO6_UT2": 7,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d59a"
+        }
+      },
+      "SPPU": 77,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d599"
+      }
+    },
+    {
+      "srNo": 37,
+      "rollNo": "33247",
+      "seatNo": "T190058628",
+      "name": "LOHANA ANEESH DEEPAK",
+      "CO": {
+        "CO1_UT1": 4,
+        "CO2_UT1": 10,
+        "CO3_UT1": 0,
+        "CO4_UT2": 4,
+        "CO5_UT2": 5,
+        "CO6_UT2": 4,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d59c"
+        }
+      },
+      "SPPU": 55,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d59b"
+      }
+    },
+    {
+      "srNo": 38,
+      "rollNo": "33248",
+      "seatNo": "T190058631",
+      "name": "MAHARNAVAR AVINASH LAXMAN",
+      "CO": {
+        "CO1_UT1": 5,
+        "CO2_UT1": 10,
+        "CO3_UT1": 5,
+        "CO4_UT2": 8,
+        "CO5_UT2": 0,
+        "CO6_UT2": 9,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d59e"
+        }
+      },
+      "SPPU": 79,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d59d"
+      }
+    },
+    {
+      "srNo": 39,
+      "rollNo": "33249",
+      "seatNo": "T190058635",
+      "name": "MANASI SHARAD BALGUDE",
+      "CO": {
+        "CO1_UT1": 8,
+        "CO2_UT1": 10,
+        "CO3_UT1": 9,
+        "CO4_UT2": 9,
+        "CO5_UT2": 5,
+        "CO6_UT2": 4,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d5a0"
+        }
+      },
+      "SPPU": 86,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d59f"
+      }
+    },
+    {
+      "srNo": 40,
+      "rollNo": "33250",
+      "seatNo": "T190058640",
+      "name": "MAVANI RAJ SURESH",
+      "CO": {
+        "CO1_UT1": 3,
+        "CO2_UT1": 10,
+        "CO3_UT1": 4,
+        "CO4_UT2": 7,
+        "CO5_UT2": 5,
+        "CO6_UT2": 4,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d5a2"
+        }
+      },
+      "SPPU": 86,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d5a1"
+      }
+    },
+    {
+      "srNo": 41,
+      "rollNo": "33251",
+      "seatNo": "T190058643",
+      "name": "MISAL PRANJAL RAJESH",
+      "CO": {
+        "CO1_UT1": 3,
+        "CO2_UT1": 9,
+        "CO3_UT1": 2,
+        "CO4_UT2": 4,
+        "CO5_UT2": 9,
+        "CO6_UT2": 4,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d5a4"
+        }
+      },
+      "SPPU": 83,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d5a3"
+      }
+    },
+    {
+      "srNo": 42,
+      "rollNo": "33252",
+      "seatNo": "T190058646",
+      "name": "MULLA MAHEK NAJIR",
+      "CO": {
+        "CO1_UT1": 3,
+        "CO2_UT1": 10,
+        "CO3_UT1": 0,
+        "CO4_UT2": 4,
+        "CO5_UT2": 9,
+        "CO6_UT2": 4,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d5a6"
+        }
+      },
+      "SPPU": 86,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d5a5"
+      }
+    },
+    {
+      "srNo": 43,
+      "rollNo": "33253",
+      "seatNo": "T190058649",
+      "name": "NAGMOTI ATHARVA SHASHIKANT",
+      "CO": {
+        "CO1_UT1": 3,
+        "CO2_UT1": 10,
+        "CO3_UT1": 2,
+        "CO4_UT2": 5,
+        "CO5_UT2": 9,
+        "CO6_UT2": 7,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d5a8"
+        }
+      },
+      "SPPU": 86,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d5a7"
+      }
+    },
+    {
+      "srNo": 44,
+      "rollNo": "33254",
+      "seatNo": "T190058652",
+      "name": "NAWANDAR GAURI SANJAY",
+      "CO": {
+        "CO1_UT1": 4,
+        "CO2_UT1": 6,
+        "CO3_UT1": 6,
+        "CO4_UT2": 8,
+        "CO5_UT2": 0,
+        "CO6_UT2": 9,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d5aa"
+        }
+      },
+      "SPPU": 75,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d5a9"
+      }
+    },
+    {
+      "srNo": 45,
+      "rollNo": "33255",
+      "seatNo": "T190058655",
+      "name": "OSWAL BHAVESH MUKESH",
+      "CO": {
+        "CO1_UT1": 7,
+        "CO2_UT1": 10,
+        "CO3_UT1": 1,
+        "CO4_UT2": 8,
+        "CO5_UT2": 2,
+        "CO6_UT2": 6,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d5ac"
+        }
+      },
+      "SPPU": 84,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d5ab"
+      }
+    },
+    {
+      "srNo": 46,
+      "rollNo": "33258",
+      "seatNo": "T190058665",
+      "name": "PATIL SAGAR PREMCHAND",
+      "CO": {
+        "CO1_UT1": 8,
+        "CO2_UT1": 10,
+        "CO3_UT1": 8,
+        "CO4_UT2": 8,
+        "CO5_UT2": 4,
+        "CO6_UT2": 8,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d5ae"
+        }
+      },
+      "SPPU": 86,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d5ad"
+      }
+    },
+    {
+      "srNo": 47,
+      "rollNo": "33259",
+      "seatNo": "T190058668",
+      "name": "PATIL VEDANT HANUMANT",
+      "CO": {
+        "CO1_UT1": 4,
+        "CO2_UT1": 9,
+        "CO3_UT1": 7,
+        "CO4_UT2": 6,
+        "CO5_UT2": 4,
+        "CO6_UT2": 6,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d5b0"
+        }
+      },
+      "SPPU": 79,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d5af"
+      }
+    },
+    {
+      "srNo": 48,
+      "rollNo": "33260",
+      "seatNo": "T190058672",
+      "name": "PAWAR SHRADDHA UCHIT",
+      "CO": {
+        "CO1_UT1": 4,
+        "CO2_UT1": 10,
+        "CO3_UT1": 3,
+        "CO4_UT2": 8,
+        "CO5_UT2": 3,
+        "CO6_UT2": 5,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d5b2"
+        }
+      },
+      "SPPU": 73,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d5b1"
+      }
+    },
+    {
+      "srNo": 49,
+      "rollNo": "33261",
+      "seatNo": "T190058675",
+      "name": "PHUTANE GAURI ABHIJIT",
+      "CO": {
+        "CO1_UT1": 7,
+        "CO2_UT1": 6,
+        "CO3_UT1": 5,
+        "CO4_UT2": 8,
+        "CO5_UT2": 2,
+        "CO6_UT2": 5,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d5b4"
+        }
+      },
+      "SPPU": 77,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d5b3"
+      }
+    },
+    {
+      "srNo": 50,
+      "rollNo": "33262",
+      "seatNo": "T190058678",
+      "name": "POKHARNA ADITYA RAHUL",
+      "CO": {
+        "CO1_UT1": 5,
+        "CO2_UT1": 3,
+        "CO3_UT1": 4,
+        "CO4_UT2": 7,
+        "CO5_UT2": 1,
+        "CO6_UT2": 7,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d5b6"
+        }
+      },
+      "SPPU": 70,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d5b5"
+      }
+    },
+    {
+      "srNo": 51,
+      "rollNo": "33264",
+      "seatNo": "T190058685",
+      "name": "PRASHANT CHANDRAKANT PATIL",
+      "CO": {
+        "CO1_UT1": 6,
+        "CO2_UT1": 8,
+        "CO3_UT1": 1,
+        "CO4_UT2": 9,
+        "CO5_UT2": 0,
+        "CO6_UT2": 9,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d5b8"
+        }
+      },
+      "SPPU": 69,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d5b7"
+      }
+    },
+    {
+      "srNo": 52,
+      "rollNo": "33265",
+      "seatNo": "T190058689",
+      "name": "RAJPATHAK MIHIR TUSHAR",
+      "CO": {
+        "CO1_UT1": 1,
+        "CO2_UT1": 4,
+        "CO3_UT1": 0,
+        "CO4_UT2": 5,
+        "CO5_UT2": 1,
+        "CO6_UT2": 2,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d5ba"
+        }
+      },
+      "SPPU": 0,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d5b9"
+      }
+    },
+    {
+      "srNo": 53,
+      "rollNo": "33268",
+      "seatNo": "T190058699",
+      "name": "SAKURE GAYATRI VIJAY",
+      "CO": {
+        "CO1_UT1": 6,
+        "CO2_UT1": 10,
+        "CO3_UT1": 0,
+        "CO4_UT2": 6,
+        "CO5_UT2": 4,
+        "CO6_UT2": 7,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d5bc"
+        }
+      },
+      "SPPU": 69,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d5bb"
+      }
+    },
+    {
+      "srNo": 54,
+      "rollNo": "33270",
+      "seatNo": "T190058709",
+      "name": "SHAH CHERIL YOGESH",
+      "CO": {
+        "CO1_UT1": 8,
+        "CO2_UT1": 10,
+        "CO3_UT1": 1,
+        "CO4_UT2": 2,
+        "CO5_UT2": 9,
+        "CO6_UT2": 9,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d5be"
+        }
+      },
+      "SPPU": 81,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d5bd"
+      }
+    },
+    {
+      "srNo": 55,
+      "rollNo": "33271",
+      "seatNo": "T190058712",
+      "name": "SHAHARE TITIKSHA SUNIL",
+      "CO": {
+        "CO1_UT1": 7,
+        "CO2_UT1": 6,
+        "CO3_UT1": 0,
+        "CO4_UT2": 4,
+        "CO5_UT2": 8,
+        "CO6_UT2": 9,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d5c0"
+        }
+      },
+      "SPPU": 81,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d5bf"
+      }
+    },
+    {
+      "srNo": 56,
+      "rollNo": "33272",
+      "seatNo": "T190058715",
+      "name": "SHELOKAR NUPUR MAHENDRA",
+      "CO": {
+        "CO1_UT1": 8,
+        "CO2_UT1": 8,
+        "CO3_UT1": 2,
+        "CO4_UT2": 6,
+        "CO5_UT2": 2,
+        "CO6_UT2": 5,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d5c2"
+        }
+      },
+      "SPPU": 72,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d5c1"
+      }
+    },
+    {
+      "srNo": 57,
+      "rollNo": "33273",
+      "seatNo": "T190058719",
+      "name": "SHETTI SHREYA SHRIDHAR",
+      "CO": {
+        "CO1_UT1": 7,
+        "CO2_UT1": 10,
+        "CO3_UT1": 4,
+        "CO4_UT2": 7,
+        "CO5_UT2": 3,
+        "CO6_UT2": 6,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d5c4"
+        }
+      },
+      "SPPU": 79,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d5c3"
+      }
+    },
+    {
+      "srNo": 58,
+      "rollNo": "33274",
+      "seatNo": "T190058722",
+      "name": "SHREYAS BABAN ZAGARE",
+      "CO": {
+        "CO1_UT1": 8,
+        "CO2_UT1": 7,
+        "CO3_UT1": 1,
+        "CO4_UT2": 6,
+        "CO5_UT2": 1,
+        "CO6_UT2": 7,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d5c6"
+        }
+      },
+      "SPPU": 67,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d5c5"
+      }
+    },
+    {
+      "srNo": 59,
+      "rollNo": "33275",
+      "seatNo": "T190058727",
+      "name": "SONAWANE YASH SURENDRA",
+      "CO": {
+        "CO1_UT1": 5,
+        "CO2_UT1": 10,
+        "CO3_UT1": 8,
+        "CO4_UT2": 8,
+        "CO5_UT2": 0,
+        "CO6_UT2": 8,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d5c8"
+        }
+      },
+      "SPPU": 73,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d5c7"
+      }
+    },
+    {
+      "srNo": 60,
+      "rollNo": "33277",
+      "seatNo": "T190058736",
+      "name": "TENDULKAR TANVI SANDEEP",
+      "CO": {
+        "CO1_UT1": 3,
+        "CO2_UT1": 6,
+        "CO3_UT1": 3,
+        "CO4_UT2": 6,
+        "CO5_UT2": 4,
+        "CO6_UT2": 5,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d5ca"
+        }
+      },
+      "SPPU": 77,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d5c9"
+      }
+    },
+    {
+      "srNo": 61,
+      "rollNo": "33278",
+      "seatNo": "T190058739",
+      "name": "UNECHA PRASAD MAHENDRA",
+      "CO": {
+        "CO1_UT1": 7,
+        "CO2_UT1": 8,
+        "CO3_UT1": 3,
+        "CO4_UT2": 4,
+        "CO5_UT2": 5,
+        "CO6_UT2": 5,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d5cc"
+        }
+      },
+      "SPPU": 72,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d5cb"
+      }
+    },
+    {
+      "srNo": 62,
+      "rollNo": "33279",
+      "seatNo": "T190058743",
+      "name": "VERMA HARISH RAJENDRAPRASAD",
+      "CO": {
+        "CO1_UT1": 2,
+        "CO2_UT1": 9,
+        "CO3_UT1": 9,
+        "CO4_UT2": 6,
+        "CO5_UT2": 5,
+        "CO6_UT2": 6,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d5ce"
+        }
+      },
+      "SPPU": 78,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d5cd"
+      }
+    },
+    {
+      "srNo": 63,
+      "rollNo": "33281",
+      "seatNo": "T190058750",
+      "name": "WANI PALASH PARESH",
+      "CO": {
+        "CO1_UT1": 5,
+        "CO2_UT1": 2,
+        "CO3_UT1": 2,
+        "CO4_UT2": 5,
+        "CO5_UT2": 2,
+        "CO6_UT2": 7,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d5d0"
+        }
+      },
+      "SPPU": 74,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d5cf"
+      }
+    },
+    {
+      "srNo": 64,
+      "rollNo": "33282",
+      "seatNo": "T190058753",
+      "name": "YELGULWAR MANSI KAVIRAJ",
+      "CO": {
+        "CO1_UT1": 0,
+        "CO2_UT1": 0,
+        "CO3_UT1": 0,
+        "CO4_UT2": 8,
+        "CO5_UT2": 0,
+        "CO6_UT2": 4,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d5d2"
+        }
+      },
+      "SPPU": 55,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d5d1"
+      }
+    },
+    {
+      "srNo": 1,
+      "rollNo": "33301",
+      "seatNo": "T190058510",
+      "name": "Apoorvaraj Londhe",
+      "CO": {
+        "CO1_UT1": 8,
+        "CO2_UT1": 5,
+        "CO3_UT1": 1,
+        "CO4_UT2": 5,
+        "CO5_UT2": 8,
+        "CO6_UT2": 5,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d5d4"
+        }
+      },
+      "SPPU": 62,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d5d3"
+      }
+    },
+    {
+      "srNo": 2,
+      "rollNo": "33302",
+      "seatNo": "T190058512",
+      "name": "Aryan Vora",
+      "CO": {
+        "CO1_UT1": 10,
+        "CO2_UT1": 10,
+        "CO3_UT1": 5,
+        "CO4_UT2": 8,
+        "CO5_UT2": 5,
+        "CO6_UT2": 10,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d5d6"
+        }
+      },
+      "SPPU": 83,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d5d5"
+      }
+    },
+    {
+      "srNo": 3,
+      "rollNo": "33303",
+      "seatNo": "T190058513",
+      "name": "Atharva Agrawal",
+      "CO": {
+        "CO1_UT1": 9,
+        "CO2_UT1": 10,
+        "CO3_UT1": 9,
+        "CO4_UT2": 9,
+        "CO5_UT2": 9,
+        "CO6_UT2": 9,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d5d8"
+        }
+      },
+      "SPPU": 81,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d5d7"
+      }
+    },
+    {
+      "srNo": 4,
+      "rollNo": "33304",
+      "seatNo": "T190058514",
+      "name": "Sakshi Attarde",
+      "CO": {
+        "CO1_UT1": 7,
+        "CO2_UT1": 8,
+        "CO3_UT1": 4,
+        "CO4_UT2": 5,
+        "CO5_UT2": 5,
+        "CO6_UT2": 10,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d5da"
+        }
+      },
+      "SPPU": 70,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d5d9"
+      }
+    },
+    {
+      "srNo": 5,
+      "rollNo": "33305",
+      "seatNo": "T190058522",
+      "name": "Hemang Barhate",
+      "CO": {
+        "CO1_UT1": 8,
+        "CO2_UT1": 10,
+        "CO3_UT1": 5,
+        "CO4_UT2": 1,
+        "CO5_UT2": 10,
+        "CO6_UT2": 10,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d5dc"
+        }
+      },
+      "SPPU": 72,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d5db"
+      }
+    },
+    {
+      "srNo": 6,
+      "rollNo": "33306",
+      "seatNo": "T190058532",
+      "name": "Ashutosh Birajdar",
+      "CO": {
+        "CO1_UT1": 8,
+        "CO2_UT1": 10,
+        "CO3_UT1": 3,
+        "CO4_UT2": 8,
+        "CO5_UT2": 3,
+        "CO6_UT2": 5,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d5de"
+        }
+      },
+      "SPPU": 75,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d5dd"
+      }
+    },
+    {
+      "srNo": 7,
+      "rollNo": "33309",
+      "seatNo": "T190058551",
+      "name": "Sarthak Deshpande",
+      "CO": {
+        "CO1_UT1": 5,
+        "CO2_UT1": 10,
+        "CO3_UT1": 0,
+        "CO4_UT2": 0,
+        "CO5_UT2": 5,
+        "CO6_UT2": 3,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d5e0"
+        }
+      },
+      "SPPU": 59,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d5df"
+      }
+    },
+    {
+      "srNo": 8,
+      "rollNo": "33310",
+      "seatNo": "T190058555",
+      "name": "Siddhesh Dhinge",
+      "CO": {
+        "CO1_UT1": 5,
+        "CO2_UT1": 10,
+        "CO3_UT1": 10,
+        "CO4_UT2": 4,
+        "CO5_UT2": 4,
+        "CO6_UT2": 8,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d5e2"
+        }
+      },
+      "SPPU": 87,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d5e1"
+      }
+    },
+    {
+      "srNo": 9,
+      "rollNo": "33311",
+      "seatNo": "T190058561",
+      "name": "Yash Gajalwar",
+      "CO": {
+        "CO1_UT1": 8,
+        "CO2_UT1": 10,
+        "CO3_UT1": 5,
+        "CO4_UT2": 3,
+        "CO5_UT2": 10,
+        "CO6_UT2": 7,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d5e4"
+        }
+      },
+      "SPPU": 81,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d5e3"
+      }
+    },
+    {
+      "srNo": 10,
+      "rollNo": "33312",
+      "seatNo": "T190058563",
+      "name": "Yash Gavitre",
+      "CO": {
+        "CO1_UT1": 3,
+        "CO2_UT1": 0,
+        "CO3_UT1": 0,
+        "CO4_UT2": 0,
+        "CO5_UT2": 0,
+        "CO6_UT2": 0,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d5e6"
+        }
+      },
+      "SPPU": 0,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d5e5"
+      }
+    },
+    {
+      "srNo": 11,
+      "rollNo": "33314",
+      "seatNo": "T190058573",
+      "name": "Harsh Ranjane",
+      "CO": {
+        "CO1_UT1": 8,
+        "CO2_UT1": 5,
+        "CO3_UT1": 2,
+        "CO4_UT2": 7,
+        "CO5_UT2": 5,
+        "CO6_UT2": 6,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d5e8"
+        }
+      },
+      "SPPU": 66,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d5e7"
+      }
+    },
+    {
+      "srNo": 12,
+      "rollNo": "33315",
+      "seatNo": "T190058578",
+      "name": "Snehal Hon",
+      "CO": {
+        "CO1_UT1": 5,
+        "CO2_UT1": 6,
+        "CO3_UT1": 2,
+        "CO4_UT2": 7,
+        "CO5_UT2": 4,
+        "CO6_UT2": 5,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d5ea"
+        }
+      },
+      "SPPU": 81,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d5e9"
+      }
+    },
+    {
+      "srNo": 13,
+      "rollNo": "33317",
+      "seatNo": "T190058615",
+      "name": "Jayesh Kowale",
+      "CO": {
+        "CO1_UT1": 5,
+        "CO2_UT1": 10,
+        "CO3_UT1": 0,
+        "CO4_UT2": 6,
+        "CO5_UT2": 5,
+        "CO6_UT2": 10,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d5ec"
+        }
+      },
+      "SPPU": 70,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d5eb"
+      }
+    },
+    {
+      "srNo": 14,
+      "rollNo": "33319",
+      "seatNo": "T190058594",
+      "name": "Varadraj Kadam",
+      "CO": {
+        "CO1_UT1": 5,
+        "CO2_UT1": 9,
+        "CO3_UT1": 5,
+        "CO4_UT2": 3,
+        "CO5_UT2": 10,
+        "CO6_UT2": 10,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d5ee"
+        }
+      },
+      "SPPU": 67,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d5ed"
+      }
+    },
+    {
+      "srNo": 15,
+      "rollNo": "33320",
+      "seatNo": "T190058707",
+      "name": "Savani Kalekar",
+      "CO": {
+        "CO1_UT1": 10,
+        "CO2_UT1": 6,
+        "CO3_UT1": 0,
+        "CO4_UT2": 9,
+        "CO5_UT2": 2,
+        "CO6_UT2": 10,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d5f0"
+        }
+      },
+      "SPPU": 60,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d5ef"
+      }
+    },
+    {
+      "srNo": 16,
+      "rollNo": "33321",
+      "seatNo": "T190058597",
+      "name": "Shrinesh Kamble",
+      "CO": {
+        "CO1_UT1": 7,
+        "CO2_UT1": 7,
+        "CO3_UT1": 0,
+        "CO4_UT2": 0,
+        "CO5_UT2": 5,
+        "CO6_UT2": 10,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d5f2"
+        }
+      },
+      "SPPU": 80,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d5f1"
+      }
+    },
+    {
+      "srNo": 17,
+      "rollNo": "33322",
+      "seatNo": "T190058600",
+      "name": "Anuja Katruwar",
+      "CO": {
+        "CO1_UT1": 7,
+        "CO2_UT1": 10,
+        "CO3_UT1": 10,
+        "CO4_UT2": 4,
+        "CO5_UT2": 9,
+        "CO6_UT2": 10,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d5f4"
+        }
+      },
+      "SPPU": 88,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d5f3"
+      }
+    },
+    {
+      "srNo": 18,
+      "rollNo": "33323",
+      "seatNo": "T190058601",
+      "name": "Sumit Kawale",
+      "CO": {
+        "CO1_UT1": 0,
+        "CO2_UT1": 5,
+        "CO3_UT1": 7,
+        "CO4_UT2": 6,
+        "CO5_UT2": 5,
+        "CO6_UT2": 8,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d5f6"
+        }
+      },
+      "SPPU": 75,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d5f5"
+      }
+    },
+    {
+      "srNo": 19,
+      "rollNo": "33324",
+      "seatNo": "T190058606",
+      "name": "Sejal Khilari",
+      "CO": {
+        "CO1_UT1": 3,
+        "CO2_UT1": 10,
+        "CO3_UT1": 10,
+        "CO4_UT2": 2,
+        "CO5_UT2": 10,
+        "CO6_UT2": 10,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d5f8"
+        }
+      },
+      "SPPU": 84,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d5f7"
+      }
+    },
+    {
+      "srNo": 20,
+      "rollNo": "33325",
+      "seatNo": "T190058609",
+      "name": "Kiran Pacharne",
+      "CO": {
+        "CO1_UT1": 10,
+        "CO2_UT1": 6,
+        "CO3_UT1": 10,
+        "CO4_UT2": 7,
+        "CO5_UT2": 10,
+        "CO6_UT2": 5,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d5fa"
+        }
+      },
+      "SPPU": 75,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d5f9"
+      }
+    },
+    {
+      "srNo": 21,
+      "rollNo": "33327",
+      "seatNo": "T190058616",
+      "name": "Manas Kshatriya",
+      "CO": {
+        "CO1_UT1": 3,
+        "CO2_UT1": 9,
+        "CO3_UT1": 5,
+        "CO4_UT2": 9,
+        "CO5_UT2": 5,
+        "CO6_UT2": 4,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d5fc"
+        }
+      },
+      "SPPU": 83,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d5fb"
+      }
+    },
+    {
+      "srNo": 22,
+      "rollNo": "33328",
+      "seatNo": "T190058619",
+      "name": "Haripriya Kulkarni",
+      "CO": {
+        "CO1_UT1": 0,
+        "CO2_UT1": 7,
+        "CO3_UT1": 7,
+        "CO4_UT2": 5,
+        "CO5_UT2": 4,
+        "CO6_UT2": 8,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d5fe"
+        }
+      },
+      "SPPU": 81,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d5fd"
+      }
+    },
+    {
+      "srNo": 23,
+      "rollNo": "33329",
+      "seatNo": "T190058620",
+      "name": "Rohit Kulkarni",
+      "CO": {
+        "CO1_UT1": 9,
+        "CO2_UT1": 10,
+        "CO3_UT1": 5,
+        "CO4_UT2": 3,
+        "CO5_UT2": 1,
+        "CO6_UT2": 9,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d600"
+        }
+      },
+      "SPPU": 78,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d5ff"
+      }
+    },
+    {
+      "srNo": 24,
+      "rollNo": "33331",
+      "seatNo": "T190058626",
+      "name": "Kushal Bhattad",
+      "CO": {
+        "CO1_UT1": 7,
+        "CO2_UT1": 9,
+        "CO3_UT1": 4,
+        "CO4_UT2": 9,
+        "CO5_UT2": 0,
+        "CO6_UT2": 9,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d602"
+        }
+      },
+      "SPPU": 87,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d601"
+      }
+    },
+    {
+      "srNo": 25,
+      "rollNo": "33332",
+      "seatNo": "T190058629",
+      "name": "Uday Longadge",
+      "CO": {
+        "CO1_UT1": 9,
+        "CO2_UT1": 5,
+        "CO3_UT1": 5,
+        "CO4_UT2": 5,
+        "CO5_UT2": 10,
+        "CO6_UT2": 4,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d604"
+        }
+      },
+      "SPPU": 79,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d603"
+      }
+    },
+    {
+      "srNo": 26,
+      "rollNo": "33334",
+      "seatNo": "T190058633",
+      "name": "Sandeep Majumdar",
+      "CO": {
+        "CO1_UT1": 0,
+        "CO2_UT1": 0,
+        "CO3_UT1": 0,
+        "CO4_UT2": 0,
+        "CO5_UT2": 0,
+        "CO6_UT2": 0,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d606"
+        }
+      },
+      "SPPU": 0,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d605"
+      }
+    },
+    {
+      "srNo": 27,
+      "rollNo": "33335",
+      "seatNo": "T190058636",
+      "name": "Mandar Deshmukh",
+      "CO": {
+        "CO1_UT1": 7,
+        "CO2_UT1": 8,
+        "CO3_UT1": 8,
+        "CO4_UT2": 8,
+        "CO5_UT2": 6,
+        "CO6_UT2": 7,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d608"
+        }
+      },
+      "SPPU": 80,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d607"
+      }
+    },
+    {
+      "srNo": 28,
+      "rollNo": "33336",
+      "seatNo": "T190058638",
+      "name": "Manpreet Sidhu",
+      "CO": {
+        "CO1_UT1": 9,
+        "CO2_UT1": 10,
+        "CO3_UT1": 7,
+        "CO4_UT2": 5,
+        "CO5_UT2": 5,
+        "CO6_UT2": 5,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d60a"
+        }
+      },
+      "SPPU": 52,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d609"
+      }
+    },
+    {
+      "srNo": 29,
+      "rollNo": "33337",
+      "seatNo": "T190058639",
+      "name": "Sandesh Marathe",
+      "CO": {
+        "CO1_UT1": 5,
+        "CO2_UT1": 9,
+        "CO3_UT1": 5,
+        "CO4_UT2": 5,
+        "CO5_UT2": 5,
+        "CO6_UT2": 10,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d60c"
+        }
+      },
+      "SPPU": 79,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d60b"
+      }
+    },
+    {
+      "srNo": 30,
+      "rollNo": "33339",
+      "seatNo": "T190058644",
+      "name": "Prathamesh Mitkar",
+      "CO": {
+        "CO1_UT1": 2,
+        "CO2_UT1": 3,
+        "CO3_UT1": 0,
+        "CO4_UT2": 5,
+        "CO5_UT2": 5,
+        "CO6_UT2": 10,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d60e"
+        }
+      },
+      "SPPU": 58,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d60d"
+      }
+    },
+    {
+      "srNo": 31,
+      "rollNo": "33340",
+      "seatNo": "T190058508",
+      "name": "Mohammad Saif Ansari",
+      "CO": {
+        "CO1_UT1": 9,
+        "CO2_UT1": 7,
+        "CO3_UT1": 10,
+        "CO4_UT2": 8,
+        "CO5_UT2": 10,
+        "CO6_UT2": 10,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d610"
+        }
+      },
+      "SPPU": 79,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d60f"
+      }
+    },
+    {
+      "srNo": 32,
+      "rollNo": "33341",
+      "seatNo": "T190058647",
+      "name": "Kunal Nagane",
+      "CO": {
+        "CO1_UT1": 10,
+        "CO2_UT1": 5,
+        "CO3_UT1": 5,
+        "CO4_UT2": 4,
+        "CO5_UT2": 10,
+        "CO6_UT2": 10,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d612"
+        }
+      },
+      "SPPU": 80,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d611"
+      }
+    },
+    {
+      "srNo": 33,
+      "rollNo": "33342",
+      "seatNo": "T190058650",
+      "name": "Kaushik Naik",
+      "CO": {
+        "CO1_UT1": 10,
+        "CO2_UT1": 10,
+        "CO3_UT1": 8,
+        "CO4_UT2": 3,
+        "CO5_UT2": 5,
+        "CO6_UT2": 10,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d614"
+        }
+      },
+      "SPPU": 84,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d613"
+      }
+    },
+    {
+      "srNo": 34,
+      "rollNo": "33343",
+      "seatNo": "T190058653",
+      "name": "Vijay Olekar",
+      "CO": {
+        "CO1_UT1": 9,
+        "CO2_UT1": 10,
+        "CO3_UT1": 5,
+        "CO4_UT2": 5,
+        "CO5_UT2": 5,
+        "CO6_UT2": 10,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d616"
+        }
+      },
+      "SPPU": 73,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d615"
+      }
+    },
+    {
+      "srNo": 35,
+      "rollNo": "33344",
+      "seatNo": "T190058656",
+      "name": "Pranav Parkale",
+      "CO": {
+        "CO1_UT1": 10,
+        "CO2_UT1": 8,
+        "CO3_UT1": 0,
+        "CO4_UT2": 10,
+        "CO5_UT2": 0,
+        "CO6_UT2": 10,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d618"
+        }
+      },
+      "SPPU": 69,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d617"
+      }
+    },
+    {
+      "srNo": 36,
+      "rollNo": "33346",
+      "seatNo": "T190058661",
+      "name": "Harshvardhan Patil",
+      "CO": {
+        "CO1_UT1": 10,
+        "CO2_UT1": 10,
+        "CO3_UT1": 8,
+        "CO4_UT2": 10,
+        "CO5_UT2": 9,
+        "CO6_UT2": 10,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d61a"
+        }
+      },
+      "SPPU": 84,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d619"
+      }
+    },
+    {
+      "srNo": 37,
+      "rollNo": "33348",
+      "seatNo": "T190058666",
+      "name": "Sanika Patil",
+      "CO": {
+        "CO1_UT1": 4,
+        "CO2_UT1": 7,
+        "CO3_UT1": 0,
+        "CO4_UT2": 5,
+        "CO5_UT2": 0,
+        "CO6_UT2": 3,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d61c"
+        }
+      },
+      "SPPU": 78,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d61b"
+      }
+    },
+    {
+      "srNo": 38,
+      "rollNo": "33349",
+      "seatNo": "T190058669",
+      "name": "Yash Patil",
+      "CO": {
+        "CO1_UT1": 9,
+        "CO2_UT1": 10,
+        "CO3_UT1": 10,
+        "CO4_UT2": 8,
+        "CO5_UT2": 9,
+        "CO6_UT2": 0,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d61e"
+        }
+      },
+      "SPPU": 83,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d61d"
+      }
+    },
+    {
+      "srNo": 39,
+      "rollNo": "33350",
+      "seatNo": "T190058670",
+      "name": "Amir Pawar",
+      "CO": {
+        "CO1_UT1": 9,
+        "CO2_UT1": 2,
+        "CO3_UT1": 0,
+        "CO4_UT2": 8,
+        "CO5_UT2": 0,
+        "CO6_UT2": 8,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d620"
+        }
+      },
+      "SPPU": 0,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d61f"
+      }
+    },
+    {
+      "srNo": 40,
+      "rollNo": "33351",
+      "seatNo": "T190058673",
+      "name": "Vishvam Pawar",
+      "CO": {
+        "CO1_UT1": 10,
+        "CO2_UT1": 10,
+        "CO3_UT1": 9,
+        "CO4_UT2": 10,
+        "CO5_UT2": 3,
+        "CO6_UT2": 6,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d622"
+        }
+      },
+      "SPPU": 71,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d621"
+      }
+    },
+    {
+      "srNo": 41,
+      "rollNo": "33352",
+      "seatNo": "T190058676",
+      "name": "Shubham Pitale",
+      "CO": {
+        "CO1_UT1": 10,
+        "CO2_UT1": 10,
+        "CO3_UT1": 0,
+        "CO4_UT2": 0,
+        "CO5_UT2": 5,
+        "CO6_UT2": 10,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d624"
+        }
+      },
+      "SPPU": 73,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d623"
+      }
+    },
+    {
+      "srNo": 42,
+      "rollNo": "33353",
+      "seatNo": "T190058679",
+      "name": "Neha Pol",
+      "CO": {
+        "CO1_UT1": 3,
+        "CO2_UT1": 10,
+        "CO3_UT1": 5,
+        "CO4_UT2": 10,
+        "CO5_UT2": 5,
+        "CO6_UT2": 10,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d626"
+        }
+      },
+      "SPPU": 78,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d625"
+      }
+    },
+    {
+      "srNo": 43,
+      "rollNo": "33354",
+      "seatNo": "T190058681",
+      "name": "Pratik Pradhan",
+      "CO": {
+        "CO1_UT1": 9,
+        "CO2_UT1": 10,
+        "CO3_UT1": 7,
+        "CO4_UT2": 10,
+        "CO5_UT2": 8,
+        "CO6_UT2": 10,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d628"
+        }
+      },
+      "SPPU": 68,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d627"
+      }
+    },
+    {
+      "srNo": 44,
+      "rollNo": "33355",
+      "seatNo": "T190058683",
+      "name": "Pranav Waghanna",
+      "CO": {
+        "CO1_UT1": 3,
+        "CO2_UT1": 7,
+        "CO3_UT1": 10,
+        "CO4_UT2": 4,
+        "CO5_UT2": 0,
+        "CO6_UT2": 6,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d62a"
+        }
+      },
+      "SPPU": 47,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d629"
+      }
+    },
+    {
+      "srNo": 45,
+      "rollNo": "33356",
+      "seatNo": "T190058686",
+      "name": "Pratik Dhane",
+      "CO": {
+        "CO1_UT1": 3,
+        "CO2_UT1": 10,
+        "CO3_UT1": 5,
+        "CO4_UT2": 9,
+        "CO5_UT2": 4,
+        "CO6_UT2": 7,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d62c"
+        }
+      },
+      "SPPU": 76,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d62b"
+      }
+    },
+    {
+      "srNo": 46,
+      "rollNo": "33357",
+      "seatNo": "T190058688",
+      "name": "Raj Gandole",
+      "CO": {
+        "CO1_UT1": 6,
+        "CO2_UT1": 7,
+        "CO3_UT1": 5,
+        "CO4_UT2": 7,
+        "CO5_UT2": 4,
+        "CO6_UT2": 10,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d62e"
+        }
+      },
+      "SPPU": 81,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d62d"
+      }
+    },
+    {
+      "srNo": 47,
+      "rollNo": "33359",
+      "seatNo": "T190058693",
+      "name": "Parth Raut",
+      "CO": {
+        "CO1_UT1": 9,
+        "CO2_UT1": 10,
+        "CO3_UT1": 10,
+        "CO4_UT2": 10,
+        "CO5_UT2": 5,
+        "CO6_UT2": 10,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d630"
+        }
+      },
+      "SPPU": 81,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d62f"
+      }
+    },
+    {
+      "srNo": 48,
+      "rollNo": "33360",
+      "seatNo": "T190058697",
+      "name": "Gaurav Sable",
+      "CO": {
+        "CO1_UT1": 4,
+        "CO2_UT1": 10,
+        "CO3_UT1": 6,
+        "CO4_UT2": 3,
+        "CO5_UT2": 9,
+        "CO6_UT2": 10,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d632"
+        }
+      },
+      "SPPU": 78,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d631"
+      }
+    },
+    {
+      "srNo": 49,
+      "rollNo": "33361",
+      "seatNo": "T190058700",
+      "name": "Dhananjay Salunke",
+      "CO": {
+        "CO1_UT1": 10,
+        "CO2_UT1": 5,
+        "CO3_UT1": 3,
+        "CO4_UT2": 0,
+        "CO5_UT2": 0,
+        "CO6_UT2": 0,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d634"
+        }
+      },
+      "SPPU": 52,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d633"
+      }
+    },
+    {
+      "srNo": 50,
+      "rollNo": "33362",
+      "seatNo": "T190058702",
+      "name": "Yash Sarda",
+      "CO": {
+        "CO1_UT1": 5,
+        "CO2_UT1": 10,
+        "CO3_UT1": 3,
+        "CO4_UT2": 7,
+        "CO5_UT2": 5,
+        "CO6_UT2": 10,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d636"
+        }
+      },
+      "SPPU": 70,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d635"
+      }
+    },
+    {
+      "srNo": 51,
+      "rollNo": "33363",
+      "seatNo": "T190058706",
+      "name": "Saurav Mohanty",
+      "CO": {
+        "CO1_UT1": 5,
+        "CO2_UT1": 10,
+        "CO3_UT1": 2,
+        "CO4_UT2": 0,
+        "CO5_UT2": 0,
+        "CO6_UT2": 0,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d638"
+        }
+      },
+      "SPPU": 78,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d637"
+      }
+    },
+    {
+      "srNo": 52,
+      "rollNo": "33365",
+      "seatNo": "T190058713",
+      "name": "Saifuddin Shaikh",
+      "CO": {
+        "CO1_UT1": 5,
+        "CO2_UT1": 7,
+        "CO3_UT1": 1,
+        "CO4_UT2": 7,
+        "CO5_UT2": 0,
+        "CO6_UT2": 10,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d63a"
+        }
+      },
+      "SPPU": 70,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d639"
+      }
+    },
+    {
+      "srNo": 53,
+      "rollNo": "33366",
+      "seatNo": "T190058716",
+      "name": "Vishal Shere",
+      "CO": {
+        "CO1_UT1": 5,
+        "CO2_UT1": 5,
+        "CO3_UT1": 7,
+        "CO4_UT2": 2,
+        "CO5_UT2": 6,
+        "CO6_UT2": 10,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d63c"
+        }
+      },
+      "SPPU": 71,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d63b"
+      }
+    },
+    {
+      "srNo": 54,
+      "rollNo": "33367",
+      "seatNo": "T190058717",
+      "name": "Tejas Shete",
+      "CO": {
+        "CO1_UT1": 10,
+        "CO2_UT1": 10,
+        "CO3_UT1": 2,
+        "CO4_UT2": 5,
+        "CO5_UT2": 5,
+        "CO6_UT2": 9,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d63e"
+        }
+      },
+      "SPPU": 61,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d63d"
+      }
+    },
+    {
+      "srNo": 55,
+      "rollNo": "33368",
+      "seatNo": "T190058720",
+      "name": "Aditya Shewalkar",
+      "CO": {
+        "CO1_UT1": 10,
+        "CO2_UT1": 10,
+        "CO3_UT1": 4,
+        "CO4_UT2": 10,
+        "CO5_UT2": 5,
+        "CO6_UT2": 10,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d640"
+        }
+      },
+      "SPPU": 76,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d63f"
+      }
+    },
+    {
+      "srNo": 56,
+      "rollNo": "33369",
+      "seatNo": "T190058723",
+      "name": "Anurag Singh",
+      "CO": {
+        "CO1_UT1": 8,
+        "CO2_UT1": 8,
+        "CO3_UT1": 0,
+        "CO4_UT2": 6,
+        "CO5_UT2": 1,
+        "CO6_UT2": 4,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d642"
+        }
+      },
+      "SPPU": 62,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d641"
+      }
+    },
+    {
+      "srNo": 57,
+      "rollNo": "33370",
+      "seatNo": "T190058728",
+      "name": "Sarvesh Sugandh",
+      "CO": {
+        "CO1_UT1": 10,
+        "CO2_UT1": 10,
+        "CO3_UT1": 4,
+        "CO4_UT2": 0,
+        "CO5_UT2": 8,
+        "CO6_UT2": 10,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d644"
+        }
+      },
+      "SPPU": 77,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d643"
+      }
+    },
+    {
+      "srNo": 58,
+      "rollNo": "33371",
+      "seatNo": "T190058729",
+      "name": "Shubham Sukum",
+      "CO": {
+        "CO1_UT1": 10,
+        "CO2_UT1": 10,
+        "CO3_UT1": 1,
+        "CO4_UT2": 9,
+        "CO5_UT2": 5,
+        "CO6_UT2": 7,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d646"
+        }
+      },
+      "SPPU": 73,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d645"
+      }
+    },
+    {
+      "srNo": 59,
+      "rollNo": "33372",
+      "seatNo": "T190058732",
+      "name": "Rishikesh Suryavanshi",
+      "CO": {
+        "CO1_UT1": 5,
+        "CO2_UT1": 7,
+        "CO3_UT1": 0,
+        "CO4_UT2": 8,
+        "CO5_UT2": 3,
+        "CO6_UT2": 5,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d648"
+        }
+      },
+      "SPPU": 62,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d647"
+      }
+    },
+    {
+      "srNo": 60,
+      "rollNo": "33373",
+      "seatNo": "T190058733",
+      "name": "Onkar Swami",
+      "CO": {
+        "CO1_UT1": 5,
+        "CO2_UT1": 10,
+        "CO3_UT1": 10,
+        "CO4_UT2": 10,
+        "CO5_UT2": 5,
+        "CO6_UT2": 10,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d64a"
+        }
+      },
+      "SPPU": 77,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d649"
+      }
+    },
+    {
+      "srNo": 61,
+      "rollNo": "33374",
+      "seatNo": "T190058735",
+      "name": "Tanmay Bonde",
+      "CO": {
+        "CO1_UT1": 4,
+        "CO2_UT1": 4,
+        "CO3_UT1": 8,
+        "CO4_UT2": 6,
+        "CO5_UT2": 7,
+        "CO6_UT2": 10,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d64c"
+        }
+      },
+      "SPPU": 70,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d64b"
+      }
+    },
+    {
+      "srNo": 62,
+      "rollNo": "33376",
+      "seatNo": "T190058740",
+      "name": "Shridhar Vaidya",
+      "CO": {
+        "CO1_UT1": 10,
+        "CO2_UT1": 10,
+        "CO3_UT1": 0,
+        "CO4_UT2": 7,
+        "CO5_UT2": 5,
+        "CO6_UT2": 7,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d64e"
+        }
+      },
+      "SPPU": 77,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d64d"
+      }
+    },
+    {
+      "srNo": 63,
+      "rollNo": "33377",
+      "seatNo": "T190058741",
+      "name": "Akanksha Vasave",
+      "CO": {
+        "CO1_UT1": 7,
+        "CO2_UT1": 6,
+        "CO3_UT1": 1,
+        "CO4_UT2": 7,
+        "CO5_UT2": 5,
+        "CO6_UT2": 4,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d650"
+        }
+      },
+      "SPPU": 62,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d64f"
+      }
+    },
+    {
+      "srNo": 64,
+      "rollNo": "33378",
+      "seatNo": "T190058744",
+      "name": "Viraj Bhukte",
+      "CO": {
+        "CO1_UT1": 7,
+        "CO2_UT1": 8,
+        "CO3_UT1": 4,
+        "CO4_UT2": 0,
+        "CO5_UT2": 2,
+        "CO6_UT2": 8,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d652"
+        }
+      },
+      "SPPU": 68,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d651"
+      }
+    },
+    {
+      "srNo": 65,
+      "rollNo": "33379",
+      "seatNo": "T190058747",
+      "name": "Aditya Wadkar",
+      "CO": {
+        "CO1_UT1": 10,
+        "CO2_UT1": 10,
+        "CO3_UT1": 7,
+        "CO4_UT2": 10,
+        "CO5_UT2": 4,
+        "CO6_UT2": 10,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d654"
+        }
+      },
+      "SPPU": 78,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d653"
+      }
+    },
+    {
+      "srNo": 66,
+      "rollNo": "33380",
+      "seatNo": "T190058748",
+      "name": "Rugved Wagh",
+      "CO": {
+        "CO1_UT1": 1,
+        "CO2_UT1": 7,
+        "CO3_UT1": 1,
+        "CO4_UT2": 7,
+        "CO5_UT2": 0,
+        "CO6_UT2": 6,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d656"
+        }
+      },
+      "SPPU": 71,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d655"
+      }
+    },
+    {
+      "srNo": 67,
+      "rollNo": "33381",
+      "seatNo": "T190058751",
+      "name": "Pranish Warke",
+      "CO": {
+        "CO1_UT1": 9,
+        "CO2_UT1": 10,
+        "CO3_UT1": 2,
+        "CO4_UT2": 9,
+        "CO5_UT2": 5,
+        "CO6_UT2": 2,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d658"
+        }
+      },
+      "SPPU": 76,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d657"
+      }
+    },
+    {
+      "srNo": 68,
+      "rollNo": "33382",
+      "seatNo": "T190058754",
+      "name": "Prajwal Zoting",
+      "CO": {
+        "CO1_UT1": 2,
+        "CO2_UT1": 10,
+        "CO3_UT1": 7,
+        "CO4_UT2": 8,
+        "CO5_UT2": 0,
+        "CO6_UT2": 6,
+        "_id": {
+          "$oid": "65e092032e6068f79fd0d65a"
+        }
+      },
+      "SPPU": 63,
+      "_id": {
+        "$oid": "65e092032e6068f79fd0d659"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-02-29T13:43:16.696Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-29T14:17:39.216Z"
+  },
+  "__v": 3
+}]

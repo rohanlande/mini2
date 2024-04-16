@@ -13,7 +13,7 @@ dotenv.config();
 // app.use(bodyParser.json({ limit: '10mb', extended: true }))
 // app.use(bodyParser.urlencoded({ limit: '10mb', extended: true }))
 const corsOptions = {
-  origin: "https://mini-ebon.vercel.app", // Change this to the origin of your React app
+  origin: "https://pictattainment.vercel.app", // Change this to the origin of your React app
 };
 app.use(express.json({ limit: '10mb' }))
 app.use(cors(corsOptions))
